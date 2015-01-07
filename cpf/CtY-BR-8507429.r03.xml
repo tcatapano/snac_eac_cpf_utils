@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://socialarchive.iath.virginia.edu/shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4">
+   <control>
+      <recordId>CtY-BR-8507429.r03</recordId>
+      <maintenanceStatus>new</maintenanceStatus>
+      <maintenanceAgency>
+         <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+      </maintenanceAgency>
+      <languageDeclaration>
+         <language languageCode="eng">English</language>
+         <script scriptCode="Zyyy">Unknown</script>
+      </languageDeclaration>
+      <maintenanceHistory>
+         <maintenanceEvent>
+            <eventType>created</eventType>
+            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <agentType>machine</agentType>
+            <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
+            <eventDescription>Derived from MARC</eventDescription>
+         </maintenanceEvent>
+      </maintenanceHistory>
+      <sources>
+         <source xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xlink:href="http://www.worldcat.org/oclc/8507429"
+                 xlink:type="simple">
+            <objectXMLWrap>
+               <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xmlns:marc="http://www.loc.gov/MARC21/slim">
+                  <marc:leader>05198cpc a2200517 a 4500</marc:leader>
+                  <marc:controlfield tag="001">8507429</marc:controlfield>
+                  <marc:controlfield tag="005">20110505164601.0</marc:controlfield>
+                  <marc:controlfield tag="008">090105i19021945ctu                 eng d</marc:controlfield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">(OCoLC)ocn702249600</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">(YUL)ead.beinecke.adams</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">8507429</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="040" ind1=" " ind2=" ">
+                     <marc:subfield code="a">CtY-BR</marc:subfield>
+                     <marc:subfield code="c">CtY-BR</marc:subfield>
+                     <marc:subfield code="e">dacs</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="079" ind1=" " ind2=" ">
+                     <marc:subfield code="a">ocn702193388</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="100" ind1="1" ind2=" ">
+                     <marc:subfield code="a">Adams, R. A.</marc:subfield>
+                     <marc:subfield code="q">(Revels Alcorn),</marc:subfield>
+                     <marc:subfield code="d">b. 1869.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="245" ind1="1" ind2="0">
+                     <marc:subfield code="a">R. A. Adams papers,</marc:subfield>
+                     <marc:subfield code="f">1902-1945.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="300" ind1=" " ind2=" ">
+                     <marc:subfield code="a">6.35</marc:subfield>
+                     <marc:subfield code="f">linear feet (14 boxes)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="351" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Organized into four subseries: I. Writings, 1902-1944. II. Writings by Others, 1930s. III. Music, undated. IV. Other Papers, 1911-1945.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">R. A. Adams was born on 28 February 1869 in Vicksburg, Mississippi. He attended Payne Theological Seminary in Wilberforce, Ohio, and served as a Methodist minister in Clarksdale, Brookhaven, Jackson, and Natchez, Mississippi. According to his own biographical statement, Adams entered the ministry, presumably of the African Methodist Episcopal Church, on 23 August 1891 and worked in the pastorate until 1910, after which time he traveled around the South and parts of the Midwest and Mid-Atlantic regions as an evangelist and lecturer. He wrote and lectured on the topics of religion, theology, philosophy, race, eugenics, prophylactics, and social behavior. As president and presumably founder of The Progress Publishing Co. in Wichita, Kansas, he collaborated on and published pamphlets on the same topics, including his own Highlights of Negro History, Psychoanalysis and Racial Affinity, and Syphilis, The Black Plague.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">In addition to sermons and lectures, Adams also wrote novels, critical essays, poetry, and music, most, if not all, of which were never published. His novels include Babylon, described by Adams as "Religious - Sociological - Interracial - Stresses Gospel as Panacea for all Social Ills", Deacon Simpson, "Story of Negro Church Life - Contrasting Old, Unlettered Ministers with Modern Products - Evolution in Negro Church Life", and The Great Cathedral, "Exposure of Graft, Corruption, Autocracy, and Ecclesiastical Misfeasance -  Predicting Revolution and Reformation of the Negro Church". His critical essays likewise explore the African American Church in the late 19th and early 20th centuries, in addition to other topics, and include works such as "The Negro and His Church"  and "The Negro Church - What Ails It?".</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The collection consists of writings, sheet music, scrapbooks, photographs, and other papers, stemming from R. A.  Adams's activities as an evangelistic minister of the African Methodist Episcopal Church and as a writer, lecturer, and publisher of pamphlets on topics relating to race, religion, contraception, interpersonal relations, and socioeconomics.  The collection documents aspects of African American religion and culture, especially in the South, in the early 20th century, and in particular the evangelistic, educational, and literary activities of one African American Methodist minister.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Writings by Adams comprise the bulk of the collection and include typescripts, some of which are corrected, and manuscripts of addresses, sermons, and critical essays, as well as typescripts and manuscripts of creative works such as poetry, novels, and a play. Also included are typescripts of writings by others, on which Adams collaborated or which he seems to have published as president of The Progress Publishing Co.; as well as typescripts of musical programs and sheet music for songs by Adams; scrapbooks containing correspondence, letters of introduction, resolutions, testimonials, and clippings, documenting Adams's evangelistic activities from 1910 to 1921; photographs of Adams and his family; and printed material and other loose papers.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="555" ind1="0" ind2=" ">
+                     <marc:subfield code="a">Finding aid available.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="561" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Purchased from William Reese Co. on the Edwin J. Beinecke Book Fund and Serendipity Books on the James Weldon Johnson Memorial Collection of Negro Arts &amp; Letters Fund, 2008.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="546" ind1=" " ind2=" ">
+                     <marc:subfield code="a">In English.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="524" ind1=" " ind2=" ">
+                     <marc:subfield code="a">R. A. Adams Papers. James Weldon Johnson Collection in the Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="588" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Adams, R. A.</marc:subfield>
+                     <marc:subfield code="q">(Revels Alcorn),</marc:subfield>
+                     <marc:subfield code="d">b. 1869.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bearer, A. G.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">African Methodist Episcopal Church.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">Progress Publishing Co.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">African American authors</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">African American churches.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">African American clergy.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">African American Methodists.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">African American preaching.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">African Americans</marc:subfield>
+                     <marc:subfield code="x">Religion</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">American literature</marc:subfield>
+                     <marc:subfield code="x">African American authors.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Contraception.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Economics</marc:subfield>
+                     <marc:subfield code="x">Sociological aspects.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Eugenics.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Evangelistic work.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Interpersonal relations.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Race.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Religion.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Theology.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="852" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="2">
+                     <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+                     <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.adams</marc:subfield>
+                  </marc:datafield>
+               </marc:record>
+            </objectXMLWrap>
+         </source>
+      </sources>
+   </control>
+   <cpfDescription>
+      <identity>
+         <entityType>corporateBody</entityType>
+         <nameEntry xml:lang="en-Latn">
+            <part>Progress Publishing Co.</part>
+            <authorizedForm>WorldCat</authorizedForm>
+         </nameEntry>
+      </identity>
+      <relations>
+         <cpfRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:type="simple"
+                      xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person"
+                      xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith">
+            <relationEntry>Adams, R. A. (Revels Alcorn), b. 1869.</relationEntry>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#ExtractedRecordId">CtY-BR-8507429.c</span>
+               </p>
+            </descriptiveNote>
+         </cpfRelation>
+         <resourceRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn"
+                           xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource"
+                           xlink:type="simple"
+                           xlink:href="http://www.worldcat.org/oclc/8507429">
+            <relationEntry>Adams, R. A. (Revels Alcorn), b. 1869. R. A. Adams papers, 1902-1945.</relationEntry>
+            <objectXMLWrap>
+               <mods xmlns="http://www.loc.gov/mods/v3">
+                  <recordInfo>
+                     <recordOrigin>WorldCat:8507429</recordOrigin>
+                     <recordContentSource>ISIL:CtY-BR</recordContentSource>
+                  </recordInfo>
+                  <name>
+                     <namePart>Adams, R. A. (Revels Alcorn), b. 1869.</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                     </role>
+                  </name>
+                  <titleInfo>
+                     <title>R. A. Adams papers, 1902-1945.</title>
+                  </titleInfo>
+                  <abstract>The collection consists of writings, sheet music, scrapbooks, photographs, and other papers, stemming from R. A.  Adams's activities as an evangelistic minister of the African Methodist Episcopal Church and as a writer, lecturer, and publisher of pamphlets on topics relating to race, religion, contraception, interpersonal relations, and socioeconomics.  The collection documents aspects of African American religion and culture, especially in the South, in the early 20th century, and in particular the evangelistic, educational, and literary activities of one African American Methodist minister. Writings by Adams comprise the bulk of the collection and include typescripts, some of which are corrected, and manuscripts of addresses, sermons, and critical essays, as well as typescripts and manuscripts of creative works such as poetry, novels, and a play. Also included are typescripts of writings by others, on which Adams collaborated or which he seems to have published as president of The Progress Publishing Co.; as well as typescripts of musical programs and sheet music for songs by Adams; scrapbooks containing correspondence, letters of introduction, resolutions, testimonials, and clippings, documenting Adams's evangelistic activities from 1910 to 1921; photographs of Adams and his family; and printed material and other loose papers. </abstract>
+                  <name>
+                     <namePart>Unknown</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+                     </role>
+                  </name>
+               </mods>
+            </objectXMLWrap>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader06">p</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader07">c</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader08"> </span>
+               </p>
+            </descriptiveNote>
+         </resourceRelation>
+      </relations>
+   </cpfDescription>
+</eac-cpf>

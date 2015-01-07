@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://socialarchive.iath.virginia.edu/shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4">
+   <control>
+      <recordId>CtY-BR-8197409.r83</recordId>
+      <maintenanceStatus>new</maintenanceStatus>
+      <maintenanceAgency>
+         <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+      </maintenanceAgency>
+      <languageDeclaration>
+         <language languageCode="eng">English</language>
+         <script scriptCode="Zyyy">Unknown</script>
+      </languageDeclaration>
+      <maintenanceHistory>
+         <maintenanceEvent>
+            <eventType>created</eventType>
+            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <agentType>machine</agentType>
+            <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
+            <eventDescription>Derived from MARC</eventDescription>
+         </maintenanceEvent>
+      </maintenanceHistory>
+      <sources>
+         <source xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xlink:href="http://www.worldcat.org/oclc/8197409"
+                 xlink:type="simple">
+            <objectXMLWrap>
+               <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xmlns:marc="http://www.loc.gov/MARC21/slim">
+                  <marc:leader>11588cpc a2203229 a 4500</marc:leader>
+                  <marc:controlfield tag="001">8197409</marc:controlfield>
+                  <marc:controlfield tag="005">20121109143456.0</marc:controlfield>
+                  <marc:controlfield tag="006">m        u</marc:controlfield>
+                  <marc:controlfield tag="008">080603i19502007ctu                 eng d</marc:controlfield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">(YUL)ead.beinecke.hollander</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">8197409</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="040" ind1=" " ind2=" ">
+                     <marc:subfield code="a">CtY-BR</marc:subfield>
+                     <marc:subfield code="c">CtY-BR</marc:subfield>
+                     <marc:subfield code="e">dacs</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="100" ind1="1" ind2=" ">
+                     <marc:subfield code="a">Hollander, John.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="245" ind1="1" ind2="0">
+                     <marc:subfield code="a">John Hollander papers,</marc:subfield>
+                     <marc:subfield code="f">circa 1950-2007.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="300" ind1=" " ind2=" ">
+                     <marc:subfield code="a">21.25</marc:subfield>
+                     <marc:subfield code="f">linear feet (24 boxes)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="351" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Organized into two groupings: 1966 Acquisition (Za Hollander) and January 2008 Acquisition (Uncat MSS 1001).</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="506" ind1="1" ind2=" ">
+                     <marc:subfield code="3">Box 23 (electronic documents) in January 2008 Acquisition (Uncat MSS 1001):</marc:subfield>
+                     <marc:subfield code="a">Restricted fragile material.  Reference copies of electronic files may be requested.  Consult Access Services for further information.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">John Hollander (b. 1929) is an American poet and literary critic, and Sterling Professor Emeritus of English at Yale University.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The collection consists of material created and accumulated by John Hollander in the course of his various literary and teaching activities.  Material includes correspondence with poets, authors, critics, academics, and composers; drafts and manuscripts of poems and essays; typescripts of writings by others and related correspondence; files relating to classes taught; music material; and other papers.  The collection documents Hollander's prolific career as a poet and literary critic, as well as his relationships with other key literary figures of the late twentieth and early twenty-first century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="555" ind1="0" ind2=" ">
+                     <marc:subfield code="a">Finding aid available.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="561" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Gift of John Hollander, 1966, and purchased from John Hollander on the Sinclair Lewis Fund, 2008.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="546" ind1=" " ind2=" ">
+                     <marc:subfield code="a">In English.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="524" ind1=" " ind2=" ">
+                     <marc:subfield code="a">John Hollander Papers.  Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="588" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Agha, Shahid Ali,</marc:subfield>
+                     <marc:subfield code="d">1949-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Alvarez, A.</marc:subfield>
+                     <marc:subfield code="q">(Alfred),</marc:subfield>
+                     <marc:subfield code="d">1929-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Amichai, Yehuda.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ammons, A. R.,</marc:subfield>
+                     <marc:subfield code="d">1926-2001.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Anderson, Quentin,</marc:subfield>
+                     <marc:subfield code="d">1912-2003.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ansen, Alan.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Arendt, Hannah,</marc:subfield>
+                     <marc:subfield code="d">1906-1975.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Arikha, Avigdor,</marc:subfield>
+                     <marc:subfield code="d">1929-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Arrowsmith, William,</marc:subfield>
+                     <marc:subfield code="d">1924-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ashbery, John,</marc:subfield>
+                     <marc:subfield code="d">1927-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Auden, W. H.</marc:subfield>
+                     <marc:subfield code="q">(Wystan Hugh),</marc:subfield>
+                     <marc:subfield code="d">1907-1973.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Auster, Paul,</marc:subfield>
+                     <marc:subfield code="d">1947-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Barth, John,</marc:subfield>
+                     <marc:subfield code="d">1930-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Barton, Anne.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Barzun, Jacques,</marc:subfield>
+                     <marc:subfield code="d">1907-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Beattie, Ann.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bellow, Saul.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Berlin, Isaiah,</marc:subfield>
+                     <marc:subfield code="d">1909-1997.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Berryman, John,</marc:subfield>
+                     <marc:subfield code="d">1914-1972.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bishop, Elizabeth,</marc:subfield>
+                     <marc:subfield code="d">1911-1979.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Blackmur, R. P.</marc:subfield>
+                     <marc:subfield code="q">(Richard P.),</marc:subfield>
+                     <marc:subfield code="d">1904-1965.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bloom, Harold.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Borroff, Marie.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bowers, Edgar.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bradley, George,</marc:subfield>
+                     <marc:subfield code="d">1953-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bromwich, David,</marc:subfield>
+                     <marc:subfield code="d">1951-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Brooks, Cleanth,</marc:subfield>
+                     <marc:subfield code="d">1906-1994.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Brower, Reuben Arthur,</marc:subfield>
+                     <marc:subfield code="d">1908-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Burnett, Virgil.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Burnshaw, Stanley,</marc:subfield>
+                     <marc:subfield code="d">1906-2005.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Burt, John,</marc:subfield>
+                     <marc:subfield code="d">1955-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Calisher, Hortense.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Carter, Elliott,</marc:subfield>
+                     <marc:subfield code="d">1908-2012.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Casey, John,</marc:subfield>
+                     <marc:subfield code="d">1939-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Castro, Jan Garden.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cavell, Stanley,</marc:subfield>
+                     <marc:subfield code="d">1926-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Chomsky, Noam.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cohen, Marshall.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cole, Henri.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cone, Edward T.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Conquest, Robert.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cook, Eleanor.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Corn, Alfred,</marc:subfield>
+                     <marc:subfield code="d">1943-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Corso, Gregory.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Crase, Douglas.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cunningham, J. V.</marc:subfield>
+                     <marc:subfield code="q">(James Vincent),</marc:subfield>
+                     <marc:subfield code="d">1911-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Danto, Arthur Coleman,</marc:subfield>
+                     <marc:subfield code="d">1924-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Davie, Donald.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Davies, Jordan.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Davison, Peter.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">De Man, Paul.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">DeLillo, Don.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Di Giovanni, Norman Thomas.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Dickey, James.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Disch, Thomas M.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Dixon, Stephen,</marc:subfield>
+                     <marc:subfield code="d">1936-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Donoghue, Denis.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Duncan, Harry.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Durham, Guy.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Dworkin, Ronald.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Eberhart, Richard,</marc:subfield>
+                     <marc:subfield code="d">1904-2005.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ellmann, Richard,</marc:subfield>
+                     <marc:subfield code="d">1918-1987.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Evans, Walker,</marc:subfield>
+                     <marc:subfield code="d">1903-1975.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Evett, Robert,</marc:subfield>
+                     <marc:subfield code="d">1922-1975.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ewart, Gavin.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Feldman, Irving,</marc:subfield>
+                     <marc:subfield code="d">1928-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Fergusson, Francis.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ferry, David.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Fiedler, Leslie A.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Field, Edward,</marc:subfield>
+                     <marc:subfield code="d">1924-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Fletcher, Angus,</marc:subfield>
+                     <marc:subfield code="d">1930-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Forge, Andrew.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Fowler, Alastair.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Frankenthaler, Helen,</marc:subfield>
+                     <marc:subfield code="d">1928-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">French, Philip.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Friedman, Sanford,</marc:subfield>
+                     <marc:subfield code="d">1928-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Frye, Northrop.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ginsberg, Allen,</marc:subfield>
+                     <marc:subfield code="d">1926-1997.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Gioia, Dana.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Giorcelli, Cristina.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Girodias, Maurice.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Godine, David R.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Goehr, Alexander,</marc:subfield>
+                     <marc:subfield code="d">1932-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Gold, Herbert,</marc:subfield>
+                     <marc:subfield code="d">1924-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Greger, Debora,</marc:subfield>
+                     <marc:subfield code="d">1949-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Grosholz, Emily,</marc:subfield>
+                     <marc:subfield code="d">1950-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Gross, John J.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Gross, Kenneth.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Grossman, Allen R.,</marc:subfield>
+                     <marc:subfield code="d">1932-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Gunn, Thom.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hadas, Moses,</marc:subfield>
+                     <marc:subfield code="d">1900-1966.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hadas, Rachel.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hall, Donald,</marc:subfield>
+                     <marc:subfield code="d">1928-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hamilton, Ian,</marc:subfield>
+                     <marc:subfield code="d">1938-2001.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hardwick, Elizabeth.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Harmon, William,</marc:subfield>
+                     <marc:subfield code="d">1938-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Heaney, Seamus,</marc:subfield>
+                     <marc:subfield code="d">1939-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hearne, Vicki,</marc:subfield>
+                     <marc:subfield code="d">1946-2001.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hecht, Anthony,</marc:subfield>
+                     <marc:subfield code="d">1923-2004.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hersey, John,</marc:subfield>
+                     <marc:subfield code="d">1914-1993.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hill, Geoffrey.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hine, Daryl.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hirsch, Edward.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hodgart, Matthew John Caldwell.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hoffman, Daniel,</marc:subfield>
+                     <marc:subfield code="d">1923-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hollander, John.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hope, A. D.</marc:subfield>
+                     <marc:subfield code="q">(Alec Derwent),</marc:subfield>
+                     <marc:subfield code="d">1907-2000.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Howard, Richard,</marc:subfield>
+                     <marc:subfield code="d">1929-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Howe, Irving.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hunt, John Dixon.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Justice, Donald Rodney,</marc:subfield>
+                     <marc:subfield code="d">1925-2004.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kalstone, David.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kateb, George.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Keeley, Edmund.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kennedy, X. J.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kenner, Hugh.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kenney, Richard.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kermode, Frank,</marc:subfield>
+                     <marc:subfield code="d">1919-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kirchwey, Karl,</marc:subfield>
+                     <marc:subfield code="d">1956-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kirstein, Lincoln,</marc:subfield>
+                     <marc:subfield code="d">1907-1996.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kizer, Carolyn.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Koch, Kenneth,</marc:subfield>
+                     <marc:subfield code="d">1925-2002.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Koethe, John,</marc:subfield>
+                     <marc:subfield code="d">1945-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kramer, Hilton.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kugel, James L.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Laughlin, James,</marc:subfield>
+                     <marc:subfield code="d">1914-1997.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Lehman, David,</marc:subfield>
+                     <marc:subfield code="d">1948-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Leithauser, Brad.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Lesser, Wendy.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Levin, Harry,</marc:subfield>
+                     <marc:subfield code="d">1912-1994.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Linney, Romulus,</marc:subfield>
+                     <marc:subfield code="d">1930-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Lowell, Robert,</marc:subfield>
+                     <marc:subfield code="d">1917-1977.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Lucie-Smith, Edward.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Lurie, Alison.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Macpherson, Jay.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Maxwell, William,</marc:subfield>
+                     <marc:subfield code="d">1908-2000.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">McCarry, Charles.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">McClatchy, J. D.,</marc:subfield>
+                     <marc:subfield code="d">1945-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">McGann, Jerome J.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">McNeil, Helen,</marc:subfield>
+                     <marc:subfield code="d">1942-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Mendelson, Edward.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Meredith, William,</marc:subfield>
+                     <marc:subfield code="d">1919-2007.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Merrill, James,</marc:subfield>
+                     <marc:subfield code="d">1926-1995.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Merwin, W. S.</marc:subfield>
+                     <marc:subfield code="q">(William Stanley),</marc:subfield>
+                     <marc:subfield code="d">1927-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Mezey, Robert.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Miller, Karl,</marc:subfield>
+                     <marc:subfield code="d">1931-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Moffett, Judith,</marc:subfield>
+                     <marc:subfield code="d">1942-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Mooney, Ted.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Moross, Jerome,</marc:subfield>
+                     <marc:subfield code="d">1913-1983.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Morrow, Bradford,</marc:subfield>
+                     <marc:subfield code="d">1951-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Moss, Howard,</marc:subfield>
+                     <marc:subfield code="d">1922-1987.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Murdoch, Iris.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Nims, John Frederick,</marc:subfield>
+                     <marc:subfield code="d">1913-1999.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Nussbaum, Martha Craven,</marc:subfield>
+                     <marc:subfield code="d">1947-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Oates, Joyce Carol,</marc:subfield>
+                     <marc:subfield code="d">1938-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Orgel, Stephen.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ozick, Cynthia.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Panofsky, Erwin,</marc:subfield>
+                     <marc:subfield code="d">1892-1968.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Parisi, Joseph,</marc:subfield>
+                     <marc:subfield code="d">1944-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Perényi, Eleanor Spencer Stone,</marc:subfield>
+                     <marc:subfield code="d">1918-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Perl, Jed.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Perle, George,</marc:subfield>
+                     <marc:subfield code="d">1915-2009.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Perutz, Kathrin,</marc:subfield>
+                     <marc:subfield code="d">1939-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pinsky, Robert.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Plimpton, George.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Podhoretz, Norman.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Poirier, Richard.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pollack, Reginald.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Powers, Richard,</marc:subfield>
+                     <marc:subfield code="d">1957-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Price, Reynolds,</marc:subfield>
+                     <marc:subfield code="d">1933-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pritchard, William.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Prunty, Wyatt.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ransom, John Crowe,</marc:subfield>
+                     <marc:subfield code="d">1888-1974.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Rich, Adrienne,</marc:subfield>
+                     <marc:subfield code="d">1929-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Richards, I. A.</marc:subfield>
+                     <marc:subfield code="q">(Ivor Armstrong),</marc:subfield>
+                     <marc:subfield code="d">1893-1979.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ricks, Christopher B.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Rorem, Ned,</marc:subfield>
+                     <marc:subfield code="d">1923-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Roth, Philip.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Rothstein, Edward,</marc:subfield>
+                     <marc:subfield code="d">1952-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Rudman, Mark.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Salter, Mary Jo.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Salzman, Eric.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Sandy, Stephen.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Schapiro, Meyer,</marc:subfield>
+                     <marc:subfield code="d">1904-1996.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Schneewind, J. B.</marc:subfield>
+                     <marc:subfield code="q">(Jerome B.),</marc:subfield>
+                     <marc:subfield code="d">1930-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Schuller, Gunther.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Schulman, Grace.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Seth, Vikram,</marc:subfield>
+                     <marc:subfield code="d">1952-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Shaffer, Peter,</marc:subfield>
+                     <marc:subfield code="d">1926-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Simic, Charles,</marc:subfield>
+                     <marc:subfield code="d">1938-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Simpson, Louis Aston Marantz,</marc:subfield>
+                     <marc:subfield code="d">1923-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Skinner, B. F.</marc:subfield>
+                     <marc:subfield code="q">(Burrhus Frederic),</marc:subfield>
+                     <marc:subfield code="d">1904-1990.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Smith, William Jay,</marc:subfield>
+                     <marc:subfield code="d">1918-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Snow, Edward A.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Solomon, Andrew,</marc:subfield>
+                     <marc:subfield code="d">1963-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Sondheim, Stephen.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Sonnenberg, Ben.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Sontag, Susan,</marc:subfield>
+                     <marc:subfield code="d">1933-2004.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Soyer, Raphael,</marc:subfield>
+                     <marc:subfield code="d">1899-1987.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Sparrow, John Hanbury Angus,</marc:subfield>
+                     <marc:subfield code="d">1906-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Spence, Jonathan D.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Spender, Stephen,</marc:subfield>
+                     <marc:subfield code="d">1909-1995.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Spiegelman, Willard.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Steinberg, Leo,</marc:subfield>
+                     <marc:subfield code="d">1920-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Steinberg, Saul.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Steiner, George,</marc:subfield>
+                     <marc:subfield code="d">1929-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Stevens, Holly.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Stone, Robert,</marc:subfield>
+                     <marc:subfield code="d">1937-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Strand, Mary R.,</marc:subfield>
+                     <marc:subfield code="d">1962-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Strong, Roy C.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Styron, William,</marc:subfield>
+                     <marc:subfield code="d">1925-2006.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Swenson, May.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Tanning, Dorothea,</marc:subfield>
+                     <marc:subfield code="d">1910-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Tate, Allen,</marc:subfield>
+                     <marc:subfield code="d">1899-1979.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Trilling, Diana.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Updike, John.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Van Doren, Mark,</marc:subfield>
+                     <marc:subfield code="d">1894-1972.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Van Duyn, Mona.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Vendler, Helen Hennessy.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Von Hallberg, Robert,</marc:subfield>
+                     <marc:subfield code="d">1946-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wade, Sidney.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wain, John.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Waldrop, Rosmarie.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wallace-Crabbe, Chris.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Walthall, Hugh,</marc:subfield>
+                     <marc:subfield code="d">1948-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Walzer, Michael.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Warren, Robert Penn,</marc:subfield>
+                     <marc:subfield code="d">1905-1989.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Warren, Rosanna.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Weber, Katharine,</marc:subfield>
+                     <marc:subfield code="d">1955-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Weisgall, Hugo.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Weismiller, Edward Ronald,</marc:subfield>
+                     <marc:subfield code="d">1915-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wetzsteon, Rachel.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">White, Eric Walter,</marc:subfield>
+                     <marc:subfield code="d">1905-1985.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wieseltier, Leon.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wilbur, Richard,</marc:subfield>
+                     <marc:subfield code="d">1921-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wilkinson, Marc,</marc:subfield>
+                     <marc:subfield code="d">1929-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wright, Jay,</marc:subfield>
+                     <marc:subfield code="d">1934-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Yenser, Stephen.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">Yale University</marc:subfield>
+                     <marc:subfield code="x">Faculty.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">American literature</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">American literature</marc:subfield>
+                     <marc:subfield code="y">21st century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">American poetry</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">American poetry</marc:subfield>
+                     <marc:subfield code="y">21st century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Literary critics, American</marc:subfield>
+                     <marc:subfield code="y">20th century</marc:subfield>
+                     <marc:subfield code="v">Archives.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Poets, American</marc:subfield>
+                     <marc:subfield code="y">20th century</marc:subfield>
+                     <marc:subfield code="v">Archives.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Born digital.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Electronic documents.</marc:subfield>
+                     <marc:subfield code="2">local</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="852" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="2">
+                     <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+                     <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.hollander</marc:subfield>
+                  </marc:datafield>
+               </marc:record>
+            </objectXMLWrap>
+         </source>
+      </sources>
+   </control>
+   <cpfDescription>
+      <identity>
+         <entityType>person</entityType>
+         <nameEntry xml:lang="en-Latn">
+            <part>Goehr, Alexander, 1932-</part>
+            <authorizedForm>WorldCat</authorizedForm>
+         </nameEntry>
+      </identity>
+      <description>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1932"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1932</fromDate>
+               <toDate/>
+            </dateRange>
+         </existDates>
+      </description>
+      <relations>
+         <cpfRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:type="simple"
+                      xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person"
+                      xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith">
+            <relationEntry>Hollander, John.</relationEntry>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#ExtractedRecordId">CtY-BR-8197409.c</span>
+               </p>
+            </descriptiveNote>
+         </cpfRelation>
+         <resourceRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn"
+                           xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource"
+                           xlink:type="simple"
+                           xlink:href="http://www.worldcat.org/oclc/8197409">
+            <relationEntry>Hollander, John. John Hollander papers, circa 1950-2007.</relationEntry>
+            <objectXMLWrap>
+               <mods xmlns="http://www.loc.gov/mods/v3">
+                  <recordInfo>
+                     <recordOrigin>WorldCat:8197409</recordOrigin>
+                     <recordContentSource>ISIL:CtY-BR</recordContentSource>
+                  </recordInfo>
+                  <name>
+                     <namePart>Hollander, John.</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                     </role>
+                  </name>
+                  <titleInfo>
+                     <title>John Hollander papers, circa 1950-2007.</title>
+                  </titleInfo>
+                  <abstract>The collection consists of material created and accumulated by John Hollander in the course of his various literary and teaching activities.  Material includes correspondence with poets, authors, critics, academics, and composers; drafts and manuscripts of poems and essays; typescripts of writings by others and related correspondence; files relating to classes taught; music material; and other papers.  The collection documents Hollander's prolific career as a poet and literary critic, as well as his relationships with other key literary figures of the late twentieth and early twenty-first century. </abstract>
+                  <name>
+                     <namePart>Unknown</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+                     </role>
+                  </name>
+               </mods>
+            </objectXMLWrap>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader06">p</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader07">c</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader08"> </span>
+               </p>
+            </descriptiveNote>
+         </resourceRelation>
+      </relations>
+   </cpfDescription>
+</eac-cpf>

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://socialarchive.iath.virginia.edu/shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4">
+   <control>
+      <recordId>CtY-BR-3831065.r13</recordId>
+      <maintenanceStatus>new</maintenanceStatus>
+      <maintenanceAgency>
+         <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+      </maintenanceAgency>
+      <languageDeclaration>
+         <language languageCode="eng">English</language>
+         <script scriptCode="Zyyy">Unknown</script>
+      </languageDeclaration>
+      <maintenanceHistory>
+         <maintenanceEvent>
+            <eventType>created</eventType>
+            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <agentType>machine</agentType>
+            <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
+            <eventDescription>Derived from MARC</eventDescription>
+         </maintenanceEvent>
+      </maintenanceHistory>
+      <sources>
+         <source xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xlink:href="http://www.worldcat.org/oclc/3831065"
+                 xlink:type="simple">
+            <objectXMLWrap>
+               <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xmlns:marc="http://www.loc.gov/MARC21/slim">
+                  <marc:leader>04808cpcaa2200961 a 4500</marc:leader>
+                  <marc:controlfield tag="001">3831065</marc:controlfield>
+                  <marc:controlfield tag="005">20110505112825.0</marc:controlfield>
+                  <marc:controlfield tag="008">950623i19391955ctu                 eng d</marc:controlfield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">(OCoLC)ocn702228557</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">(YUL)ead.beinecke.tigerseye</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">FJX8187YL</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">3831065</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="040" ind1=" " ind2=" ">
+                     <marc:subfield code="a">CtY-BR</marc:subfield>
+                     <marc:subfield code="c">CtY-BR</marc:subfield>
+                     <marc:subfield code="e">dacs</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="079" ind1=" " ind2=" ">
+                     <marc:subfield code="a">ocn702139120</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="130" ind1="0" ind2=" ">
+                     <marc:subfield code="a">Tiger's eye.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="245" ind1="1" ind2="0">
+                     <marc:subfield code="a">Tiger's eye records,</marc:subfield>
+                     <marc:subfield code="f">1939-1955.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="300" ind1=" " ind2=" ">
+                     <marc:subfield code="a">26.0</marc:subfield>
+                     <marc:subfield code="f">linear feet (57 boxes)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="351" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Organized into five series: I. Correspondence, 1939-1955. II. Index Cards, 1947-1951. III. Manuscripts, 1947-1949. IV. Business Records, 1947-1951. V. 1971 Addition, 1946-1951.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The little magazine The Tiger's Eye was founded  in New York in 1947 by the poet Ruth Walgreen Stephan (1910-1974) and her  husband, the painter John Stephan (1906-1995), and in its short existence earned acclaim for its discerning exposure of contemporary art and literature.  Taking its title from William Blake, the magazine published the work of artists and writers both established and unknown, and documented the New York art world as well as international art movements, with particular emphasis on abstract expressionism. It was published in nine quarterly issues between October 1947 and October 1949, when publication was suspended because the work became too much for the Stephans to manage. They initially intended to bring out further issues, but by 1951 realized that it would not be  possible.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The records document all aspects of the production and distribution of the little magazine The Tiger's Eye, from its inception in 1947 through the decision to cease publication in 1951. Correspondence, manuscripts, and business records document the creative and editorial process, the enthusiasm of its readership, its subscription base, and the work involved in producing and distributing the issues.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="555" ind1="0" ind2=" ">
+                     <marc:subfield code="a">Finding aid available.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="561" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Gift  of Ruth and John Stephan, 1958; Gift of Ruth Stephan Franklin, 1971.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="546" ind1=" " ind2=" ">
+                     <marc:subfield code="a">In English.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="524" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Tiger's Eye Records. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="588" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Albers, Josef.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Abel, Lionel.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Aiken, Conrad,</marc:subfield>
+                     <marc:subfield code="d">1889-1973.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Arp, Jean,</marc:subfield>
+                     <marc:subfield code="d">1887-1966</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Barnard, Mary.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Barrault, Jean-Louis,</marc:subfield>
+                     <marc:subfield code="d">1910-1994.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bataille, Georges,</marc:subfield>
+                     <marc:subfield code="d">1897-1962.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Borges, Jorge Luis,</marc:subfield>
+                     <marc:subfield code="d">1899-1986.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Brooks, Van Wyck,</marc:subfield>
+                     <marc:subfield code="d">1886-1963.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Char, René,</marc:subfield>
+                     <marc:subfield code="d">1907-1988.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Crews, Judson.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cummings, E. E.</marc:subfield>
+                     <marc:subfield code="q">(Edward Estlin),</marc:subfield>
+                     <marc:subfield code="d">1894-1962.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Dodson, Owen,</marc:subfield>
+                     <marc:subfield code="d">1914-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Eberhart, Richard,</marc:subfield>
+                     <marc:subfield code="d">1904-2005</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Eliot, T. S.</marc:subfield>
+                     <marc:subfield code="q">(Thomas Stearns),</marc:subfield>
+                     <marc:subfield code="d">1888-1965.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ernst, Max,</marc:subfield>
+                     <marc:subfield code="d">1891-1976.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Fitts, Dudley,</marc:subfield>
+                     <marc:subfield code="d">1903-1968.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ford, Charles Henri.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Garrigue, Jean,</marc:subfield>
+                     <marc:subfield code="d">1912-1972.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Genet, Jean,</marc:subfield>
+                     <marc:subfield code="d">1910-1986.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Gregory, Horace,</marc:subfield>
+                     <marc:subfield code="d">1898-1982.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hays, H. R.</marc:subfield>
+                     <marc:subfield code="q">(Hoffman Reynolds),</marc:subfield>
+                     <marc:subfield code="d">1904-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Laughlin, James,</marc:subfield>
+                     <marc:subfield code="d">1914-1997.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">MacIver, Loren,</marc:subfield>
+                     <marc:subfield code="d">1909-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Moore, Marianne,</marc:subfield>
+                     <marc:subfield code="d">1887-1972.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Moss, Stanley.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Neruda, Pablo,</marc:subfield>
+                     <marc:subfield code="d">1904-1973.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Nin, Anaïs,</marc:subfield>
+                     <marc:subfield code="d">1903-1977.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pasternak, Boris Leonidovich,</marc:subfield>
+                     <marc:subfield code="d">1890-1960.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Prévert, Jacques,</marc:subfield>
+                     <marc:subfield code="d">1900-1977.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Queneau, Raymond,</marc:subfield>
+                     <marc:subfield code="d">1903-1976.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Rexroth, Kenneth,</marc:subfield>
+                     <marc:subfield code="d">1905-1982.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Roethke, Theodore,</marc:subfield>
+                     <marc:subfield code="d">1908-1963.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Roskolenko, Harry.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Seligmann, Kurt,</marc:subfield>
+                     <marc:subfield code="d">1900-1962.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Stamos, Theodoros,</marc:subfield>
+                     <marc:subfield code="d">1922-1997.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Tyler, Parker.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Stephan, John Walter,</marc:subfield>
+                     <marc:subfield code="d">1906-1995.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Stephan, Ruth,</marc:subfield>
+                     <marc:subfield code="d">1910-1974.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Vazakas, Byron.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Weber, Brom,</marc:subfield>
+                     <marc:subfield code="d">1917-1998.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wilbur, Richard,</marc:subfield>
+                     <marc:subfield code="d">1921-.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Williams, William Carlos,</marc:subfield>
+                     <marc:subfield code="d">1883-1963.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wright, Richard,</marc:subfield>
+                     <marc:subfield code="d">1908-1960.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Young, Marguerite,</marc:subfield>
+                     <marc:subfield code="d">1908-1995.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="630" ind1="0" ind2="0">
+                     <marc:subfield code="a">Tiger's eye.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Art</marc:subfield>
+                     <marc:subfield code="v">Periodicals.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Authors and publishers</marc:subfield>
+                     <marc:subfield code="z">United States.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Editors</marc:subfield>
+                     <marc:subfield code="z">United States.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Literature</marc:subfield>
+                     <marc:subfield code="v">Periodicals.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Little magazines</marc:subfield>
+                     <marc:subfield code="v">Archives.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Periodicals</marc:subfield>
+                     <marc:subfield code="x">Publishing</marc:subfield>
+                     <marc:subfield code="z">United States.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="656" ind1=" " ind2="7">
+                     <marc:subfield code="a">Editors.</marc:subfield>
+                     <marc:subfield code="2">lcsh</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="700" ind1="1" ind2=" ">
+                     <marc:subfield code="a">Stephan, John Walter,</marc:subfield>
+                     <marc:subfield code="d">1906-1995.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="700" ind1="1" ind2=" ">
+                     <marc:subfield code="a">Stephan, Ruth,</marc:subfield>
+                     <marc:subfield code="d">1910-1974.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="852" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="2">
+                     <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+                     <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.tigerseye</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="928" ind1=" " ind2=" ">
+                     <marc:subfield code="a">AC09262000</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="948" ind1=" " ind2=" ">
+                     <marc:subfield code="a">tgy</marc:subfield>
+                  </marc:datafield>
+               </marc:record>
+            </objectXMLWrap>
+         </source>
+      </sources>
+   </control>
+   <cpfDescription>
+      <identity>
+         <entityType>person</entityType>
+         <nameEntry xml:lang="en-Latn">
+            <part>Eberhart, Richard, 1904-2005</part>
+            <authorizedForm>WorldCat</authorizedForm>
+         </nameEntry>
+      </identity>
+      <description>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1904"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1904</fromDate>
+               <toDate standardDate="2005"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">2005</toDate>
+            </dateRange>
+         </existDates>
+      </description>
+      <relations>
+         <resourceRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn"
+                           xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource"
+                           xlink:type="simple"
+                           xlink:href="http://www.worldcat.org/oclc/3831065">
+            <relationEntry>Tiger's eye records, 1939-1955.</relationEntry>
+            <objectXMLWrap>
+               <mods xmlns="http://www.loc.gov/mods/v3">
+                  <recordInfo>
+                     <recordOrigin>WorldCat:3831065</recordOrigin>
+                     <recordContentSource>ISIL:CtY-BR</recordContentSource>
+                  </recordInfo>
+                  <name>
+                     <namePart>Stephan, John Walter, 1906-1995.</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                     </role>
+                  </name>
+                  <titleInfo>
+                     <title>Tiger's eye records, 1939-1955.</title>
+                  </titleInfo>
+                  <abstract>The records document all aspects of the production and distribution of the little magazine The Tiger's Eye, from its inception in 1947 through the decision to cease publication in 1951. Correspondence, manuscripts, and business records document the creative and editorial process, the enthusiasm of its readership, its subscription base, and the work involved in producing and distributing the issues. </abstract>
+                  <name>
+                     <namePart>Unknown</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+                     </role>
+                  </name>
+               </mods>
+            </objectXMLWrap>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader06">p</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader07">c</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader08">a</span>
+               </p>
+            </descriptiveNote>
+         </resourceRelation>
+      </relations>
+   </cpfDescription>
+</eac-cpf>

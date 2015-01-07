@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://socialarchive.iath.virginia.edu/shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4">
+   <control>
+      <recordId>CtY-BR-3746788.r21</recordId>
+      <maintenanceStatus>new</maintenanceStatus>
+      <maintenanceAgency>
+         <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+      </maintenanceAgency>
+      <languageDeclaration>
+         <language languageCode="eng">English</language>
+         <script scriptCode="Zyyy">Unknown</script>
+      </languageDeclaration>
+      <maintenanceHistory>
+         <maintenanceEvent>
+            <eventType>created</eventType>
+            <eventDateTime standardDateTime="2015-01-07T13:21:05.028-05:00"/>
+            <agentType>machine</agentType>
+            <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
+            <eventDescription>Derived from MARC</eventDescription>
+         </maintenanceEvent>
+      </maintenanceHistory>
+      <sources>
+         <source xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xlink:href="http://www.worldcat.org/oclc/3746788"
+                 xlink:type="simple">
+            <objectXMLWrap>
+               <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xmlns:marc="http://www.loc.gov/MARC21/slim">
+                  <marc:leader>04584cpcaa2200817 a 4500</marc:leader>
+                  <marc:controlfield tag="001">3746788</marc:controlfield>
+                  <marc:controlfield tag="005">20121001093119.0</marc:controlfield>
+                  <marc:controlfield tag="006">m     q  d</marc:controlfield>
+                  <marc:controlfield tag="006">knnn            kn</marc:controlfield>
+                  <marc:controlfield tag="008">941123i19142001ctu                 eng d</marc:controlfield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">(YUL)ead.beinecke.agenda</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">FJP2526YL</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">3746788</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="040" ind1=" " ind2=" ">
+                     <marc:subfield code="a">CtY-BR</marc:subfield>
+                     <marc:subfield code="c">CtY-BR</marc:subfield>
+                     <marc:subfield code="e">dacs</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="099" ind1=" " ind2="9">
+                     <marc:subfield code="a">Formerly numbers: Uncat MS Vault 713, Uncat MSS 199, Uncat MSS 983</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="130" ind1="0" ind2=" ">
+                     <marc:subfield code="a">Agenda (London, England)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="245" ind1="1" ind2="0">
+                     <marc:subfield code="a">Agenda records,</marc:subfield>
+                     <marc:subfield code="f">1914-2001</marc:subfield>
+                     <marc:subfield code="g">(bulk 1969-2001).</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="300" ind1=" " ind2=" ">
+                     <marc:subfield code="a">55.21</marc:subfield>
+                     <marc:subfield code="f">linear feet (83 boxes)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="351" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Organized into four series and three groupings: Series I. Writings, 1925-1984. Series II. Production Files, 1969-1984. Series III. Correspondence, 1958-1985. Series IV. Additional Papers, 1914-1983. V. August 1994 Acquisition, 1978-1994. VI. November 2001 Acquisition, 1972-2000. VII. October 2007 Acquisition, 1983-2001.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="506" ind1="0" ind2=" ">
+                     <marc:subfield code="a">This collection is open for research.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="506" ind1="1" ind2=" ">
+                     <marc:subfield code="3">Box 58:</marc:subfield>
+                     <marc:subfield code="a">Restricted fragile material.  Reference surrogates have been substituted in the main files.  For further information consult the appropriate curator.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="506" ind1="1" ind2=" ">
+                     <marc:subfield code="3">Box 82 (computer disks):</marc:subfield>
+                     <marc:subfield code="a">Restricted Fragile Material. Reference copies are available.  Consult Access Services for further information.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">English literary periodical of poetry and criticism, founded in 1959 and edited by William Cookson and Peter Dale. Contributors include Ezra Pound, David Michael Jones, Hugh MacDiarmid, and Wyndham Lewis. Agenda Editions was founded in 1971 to publish in book format poetry similar to that in the magazine.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Agenda Records consist of materials from the production files of Agenda magazine from volume 7, number 3 (1969) through volume 37, number 4 (2000), with related financial records, and additional materials from William Cookson's files. Writings include works submitted for publication in Agenda or the Agenda Editions and consist of articles, poems, and reviews in holograph, typescript, galley and proof form, many bearing annotations by editor or author. The production files contain advertising copy, notes, computer disks, and galleys and proofs of issues. The correspondence is between William Cookson and contributors, his associate editor Peter Dale, and other business associates. Additional papers include business papers, photographs, and a small number of printed works. Also included are papers concerning William Cookson's writing and editing activities outside of his work at Agenda.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="555" ind1="0" ind2=" ">
+                     <marc:subfield code="a">Finding aid available.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="561" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Purchased from Anthony Garnett on the Edwin J. Beinecke Fund,1984-2007.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="546" ind1=" " ind2=" ">
+                     <marc:subfield code="a">In English.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="524" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Agenda Records. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="588" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Alexander, Michael J.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bedford, William,</marc:subfield>
+                     <marc:subfield code="d">1943-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Beresford, Anne,</marc:subfield>
+                     <marc:subfield code="d">1929-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bunting, Basil.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Clucas, Humphrey,</marc:subfield>
+                     <marc:subfield code="d">1941-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cookson, William,</marc:subfield>
+                     <marc:subfield code="d">1939-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Dale, Peter,</marc:subfield>
+                     <marc:subfield code="d">1938-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Davie, Donald.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Dent, Peter.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hamburger, Michael.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hill, Geoffrey.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">John, Roland.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Jones, David Michael,</marc:subfield>
+                     <marc:subfield code="d">1895-1974.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Levi, Peter.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Lewis, Wyndham,</marc:subfield>
+                     <marc:subfield code="d">1882-1957.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">MacDiarmid, Hugh,</marc:subfield>
+                     <marc:subfield code="d">1892-1978.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Massey, Alan,</marc:subfield>
+                     <marc:subfield code="d">1932-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Peck, John,</marc:subfield>
+                     <marc:subfield code="d">1941-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pound, Ezra,</marc:subfield>
+                     <marc:subfield code="d">1885-1972.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Sisson, C. H.</marc:subfield>
+                     <marc:subfield code="q">(Charles Hubert),</marc:subfield>
+                     <marc:subfield code="d">1914-2003.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Tomlinson, Charles,</marc:subfield>
+                     <marc:subfield code="d">1927-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Whigham, Peter.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wright, David,</marc:subfield>
+                     <marc:subfield code="d">1920-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">Agenda editions (London, England)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="630" ind1="0" ind2="0">
+                     <marc:subfield code="a">Agenda (London, England)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Authors and publishers.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">English literature</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Little magazines</marc:subfield>
+                     <marc:subfield code="z">England.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Periodicals</marc:subfield>
+                     <marc:subfield code="x">Publishing</marc:subfield>
+                     <marc:subfield code="x">Finance.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Periodicals</marc:subfield>
+                     <marc:subfield code="z">England.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Poets, English</marc:subfield>
+                     <marc:subfield code="v">Archives.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Publishers and publishing.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Born digital.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Electronic documents.</marc:subfield>
+                     <marc:subfield code="2">local</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Little magazines.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Periodicals.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Photographs.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="656" ind1=" " ind2="7">
+                     <marc:subfield code="a">Critics.</marc:subfield>
+                     <marc:subfield code="2">lcsh</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="656" ind1=" " ind2="7">
+                     <marc:subfield code="a">Poets.</marc:subfield>
+                     <marc:subfield code="2">lcsh</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="852" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="2">
+                     <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database</marc:subfield>
+                     <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.agenda</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="928" ind1=" " ind2=" ">
+                     <marc:subfield code="a">AC031197</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="948" ind1=" " ind2=" ">
+                     <marc:subfield code="a">dms</marc:subfield>
+                  </marc:datafield>
+               </marc:record>
+            </objectXMLWrap>
+         </source>
+      </sources>
+   </control>
+   <cpfDescription>
+      <identity>
+         <entityType>person</entityType>
+         <nameEntry xml:lang="en-Latn">
+            <part>Whigham, Peter.</part>
+            <authorizedForm>WorldCat</authorizedForm>
+         </nameEntry>
+      </identity>
+      <relations>
+         <resourceRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn"
+                           xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource"
+                           xlink:type="simple"
+                           xlink:href="http://www.worldcat.org/oclc/3746788">
+            <relationEntry>Agenda records, 1914-2001 (bulk 1969-2001).</relationEntry>
+            <objectXMLWrap>
+               <mods xmlns="http://www.loc.gov/mods/v3">
+                  <recordInfo>
+                     <recordOrigin>WorldCat:3746788</recordOrigin>
+                     <recordContentSource>ISIL:CtY-BR</recordContentSource>
+                  </recordInfo>
+                  <titleInfo>
+                     <title>Agenda records, 1914-2001 (bulk 1969-2001).</title>
+                  </titleInfo>
+                  <abstract>Agenda Records consist of materials from the production files of Agenda magazine from volume 7, number 3 (1969) through volume 37, number 4 (2000), with related financial records, and additional materials from William Cookson's files. Writings include works submitted for publication in Agenda or the Agenda Editions and consist of articles, poems, and reviews in holograph, typescript, galley and proof form, many bearing annotations by editor or author. The production files contain advertising copy, notes, computer disks, and galleys and proofs of issues. The correspondence is between William Cookson and contributors, his associate editor Peter Dale, and other business associates. Additional papers include business papers, photographs, and a small number of printed works. Also included are papers concerning William Cookson's writing and editing activities outside of his work at Agenda. </abstract>
+                  <name>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+                     </role>
+                  </name>
+               </mods>
+            </objectXMLWrap>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader06">p</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader07">c</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader08">a</span>
+               </p>
+            </descriptiveNote>
+         </resourceRelation>
+      </relations>
+   </cpfDescription>
+</eac-cpf>

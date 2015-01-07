@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://socialarchive.iath.virginia.edu/shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4">
+   <control>
+      <recordId>CtY-BR-3661048.r01</recordId>
+      <maintenanceStatus>new</maintenanceStatus>
+      <maintenanceAgency>
+         <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+      </maintenanceAgency>
+      <languageDeclaration>
+         <language languageCode="eng">English</language>
+         <script scriptCode="Zyyy">Unknown</script>
+      </languageDeclaration>
+      <maintenanceHistory>
+         <maintenanceEvent>
+            <eventType>created</eventType>
+            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <agentType>machine</agentType>
+            <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
+            <eventDescription>Derived from MARC</eventDescription>
+         </maintenanceEvent>
+      </maintenanceHistory>
+      <sources>
+         <source xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xlink:href="http://www.worldcat.org/oclc/3661048"
+                 xlink:type="simple">
+            <objectXMLWrap>
+               <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xmlns:marc="http://www.loc.gov/MARC21/slim">
+                  <marc:leader>05913cpcaa2201033Ia 4500</marc:leader>
+                  <marc:controlfield tag="001">3661048</marc:controlfield>
+                  <marc:controlfield tag="005">20120924141928.0</marc:controlfield>
+                  <marc:controlfield tag="008">940518i19171958ctu                 eng d</marc:controlfield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">(YUL)ead.beinecke.wfwhite</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">3661048</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="040" ind1=" " ind2=" ">
+                     <marc:subfield code="a">CtY-BR</marc:subfield>
+                     <marc:subfield code="c">CtY-BR</marc:subfield>
+                     <marc:subfield code="e">dacs</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="100" ind1="1" ind2=" ">
+                     <marc:subfield code="a">White, Walter Francis,</marc:subfield>
+                     <marc:subfield code="d">1893-1955.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="245" ind1="1" ind2="0">
+                     <marc:subfield code="a">Walter Francis White and Poppy Cannon papers,</marc:subfield>
+                     <marc:subfield code="f">circa 1910-1958.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="300" ind1=" " ind2=" ">
+                     <marc:subfield code="a">20.85</marc:subfield>
+                     <marc:subfield code="f">linear feet (44 boxes)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="351" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Organized into five series:  I. Correspondence, 1917-1955. II. Writings, 1921-1958. III. National Association for the  Advancement of Colored People, 1949-1954. IV. Other Papers, 1929-1955.  V. Photographs, 1910-1955.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="506" ind1="1" ind2=" ">
+                     <marc:subfield code="3">Boxes 39-40:</marc:subfield>
+                     <marc:subfield code="a">Restricted fragile material. Reference copies have been substituted in the main files. For further information consult the appropriate curator.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Walter White (1893-1955) was an American civil rights leader and writer.  He served as one of the Associate Secretaries (1918 to1929) and Secretary (1929-1955) of the National Association for the Advancement of Colored People.  White's writings include journalism for the New York Post and Chicago Defender as well as an exposé of lynching (Rope and  Faggot:  A Biography of Judge Lynch) and several novels. He married Poppy Cannon in 1949.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Poppy Cannon (1905-1975) was a writer and editor.  She published a number of cookbooks and was a food editor for Ladies' Home Journal, House Beautiful, Town and Country, and Mademoiselle.  She also worked as a publicity consultant for the Haitian government. In 1949 she married Walter  F. White.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The Walter White and Poppy Cannon Papers document the careers and lives of Walter White and Poppy Cannon. The Papers contain correspondence, writings, other papers, and photographs documenting Walter White's career as the Secretary for the  National Association for the  Advancement of Colored People and as a writer. Poppy Cannon's career as an editor, writer, and publicity consultant is also documented in the Papers.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="555" ind1="0" ind2=" ">
+                     <marc:subfield code="a">Finding aid available.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="561" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Gift of Walter White and Poppy Cannon, circa 1950-1957.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="546" ind1=" " ind2=" ">
+                     <marc:subfield code="a">In English.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="524" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Walter Francis White and Poppy Cannon Papers.  Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="588" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Acheson, Dean,</marc:subfield>
+                     <marc:subfield code="d">1893-1971.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bethune, Mary McLeod,</marc:subfield>
+                     <marc:subfield code="d">1875-1955.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Black, Algernon D.</marc:subfield>
+                     <marc:subfield code="q">(Algernon David),</marc:subfield>
+                     <marc:subfield code="d">1900-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bunche, Ralph J.</marc:subfield>
+                     <marc:subfield code="q">(Ralph Johnson),</marc:subfield>
+                     <marc:subfield code="d">1904-1971.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Byfield, Robert S.</marc:subfield>
+                     <marc:subfield code="q">(Robert Sigmund),</marc:subfield>
+                     <marc:subfield code="d">1896-1955.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cannon, Poppy.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cousins, Norman.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Denny, George Vernon,</marc:subfield>
+                     <marc:subfield code="d">1899-1959.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Eisenhower, Dwight D.</marc:subfield>
+                     <marc:subfield code="q">(Dwight David),</marc:subfield>
+                     <marc:subfield code="d">1890-1969.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Estimé, Dumarsais,</marc:subfield>
+                     <marc:subfield code="d">1900-1953.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Ford, Henry,</marc:subfield>
+                     <marc:subfield code="d">1917-1987.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Halle, Louis Joseph,</marc:subfield>
+                     <marc:subfield code="d">1910-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hammerstein, Oscar,</marc:subfield>
+                     <marc:subfield code="d">1895-1960.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Harriman, W. Averell</marc:subfield>
+                     <marc:subfield code="q">(William Averell),</marc:subfield>
+                     <marc:subfield code="d">1891-1986.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hastie, William,</marc:subfield>
+                     <marc:subfield code="d">1904-1976.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Holmes, John Haynes,</marc:subfield>
+                     <marc:subfield code="d">1879-1964.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Johnson, James Weldon,</marc:subfield>
+                     <marc:subfield code="d">1871-1938.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Johnson, Mordecai W.</marc:subfield>
+                     <marc:subfield code="q">(Mordecai Wyatt),</marc:subfield>
+                     <marc:subfield code="d">1890-1976.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Lampkin, Daisy E.</marc:subfield>
+                     <marc:subfield code="q">(Daisy Elizabeth),</marc:subfield>
+                     <marc:subfield code="d">1882-1965.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Lehman, Herbert H.</marc:subfield>
+                     <marc:subfield code="q">(Herbert Henry),</marc:subfield>
+                     <marc:subfield code="d">1878-1963.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Looby, Zephaniah Alexander,</marc:subfield>
+                     <marc:subfield code="d">1899-1972.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Magloire, Paul Eugène,</marc:subfield>
+                     <marc:subfield code="d">1907-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Mitchell, Clarence M.</marc:subfield>
+                     <marc:subfield code="q">(Clarence Maurice),</marc:subfield>
+                     <marc:subfield code="d">1911-1984.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Nehru, Jawaharlal,</marc:subfield>
+                     <marc:subfield code="d">1889-1964.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pandit, Vijaya Lakshmi,</marc:subfield>
+                     <marc:subfield code="d">1900-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Reid, Helen Rogers,</marc:subfield>
+                     <marc:subfield code="d">1882-1970.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Reuther, Victor G.</marc:subfield>
+                     <marc:subfield code="q">(Victor George),</marc:subfield>
+                     <marc:subfield code="d">1912-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Reuther, Walter,</marc:subfield>
+                     <marc:subfield code="d">1907-1970.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Robinson, Bill,</marc:subfield>
+                     <marc:subfield code="d">1878-1949.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Roosevelt, Eleanor,</marc:subfield>
+                     <marc:subfield code="d">1884-1962.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Roosevelt, Franklin D.</marc:subfield>
+                     <marc:subfield code="q">(Franklin Delano),</marc:subfield>
+                     <marc:subfield code="d">1882-1945.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Sampson, Edith S.</marc:subfield>
+                     <marc:subfield code="q">(Edith Spurlock),</marc:subfield>
+                     <marc:subfield code="d">1901?-1979.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Schary, Dore.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Spingarn, Arthur B.</marc:subfield>
+                     <marc:subfield code="q">(Arthur Barnett),</marc:subfield>
+                     <marc:subfield code="d">1878-1971.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Truman, Harry S.,</marc:subfield>
+                     <marc:subfield code="d">1884-1972.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Waring, Julius Waties,</marc:subfield>
+                     <marc:subfield code="d">1880-1968.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">White, Walter Francis,</marc:subfield>
+                     <marc:subfield code="d">1893-1955.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wilkins, Roy,</marc:subfield>
+                     <marc:subfield code="d">1901-1981.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Wright, Louis T.</marc:subfield>
+                     <marc:subfield code="q">(Louis Tompkins),</marc:subfield>
+                     <marc:subfield code="d">1891-1952.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Zanuck, Darryl Francis,</marc:subfield>
+                     <marc:subfield code="d">1902-1979.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">Doubleday, Doran &amp; Company.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">Ford Hall Forum.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">India League of America.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">Johnson Publishing Company.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">National Association for the Advancement of Colored People.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">Viking Press.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">W.  Colston Leigh (Firm)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="611" ind1="2" ind2="0">
+                     <marc:subfield code="a">Pan African Congress.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">African American authors</marc:subfield>
+                     <marc:subfield code="y">20th century</marc:subfield>
+                     <marc:subfield code="v">Archives.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">African American civil rights workers.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">African Americans</marc:subfield>
+                     <marc:subfield code="x">Civil rights</marc:subfield>
+                     <marc:subfield code="x">History</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Civil rights movements</marc:subfield>
+                     <marc:subfield code="z">United States</marc:subfield>
+                     <marc:subfield code="x">History</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Civil rights workers</marc:subfield>
+                     <marc:subfield code="z">United States.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Novelists, American</marc:subfield>
+                     <marc:subfield code="y">20th century</marc:subfield>
+                     <marc:subfield code="v">Archives.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">War correspondents.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">World War, 1939-1945</marc:subfield>
+                     <marc:subfield code="x">Journalists.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Haiti</marc:subfield>
+                     <marc:subfield code="x">History</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">United States</marc:subfield>
+                     <marc:subfield code="x">Race relations.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Photographs.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="700" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cannon, Poppy.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="852" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="2">
+                     <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+                     <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.wfwhite</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="1">
+                     <marc:subfield code="3">View a selection of digital images in the Beinecke Library's Digital Images Online database</marc:subfield>
+                     <marc:subfield code="u">http://beinecke.library.yale.edu/dl_crosscollex/callnumSRCHXC.asp?WC=N&amp;SS=N&amp;CN=JWJ_MSS_38</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="927" ind1=" " ind2=" ">
+                     <marc:subfield code="a">19991018RO</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="928" ind1=" " ind2=" ">
+                     <marc:subfield code="a">AC09262000</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="948" ind1=" " ind2=" ">
+                     <marc:subfield code="a">dms</marc:subfield>
+                  </marc:datafield>
+               </marc:record>
+            </objectXMLWrap>
+         </source>
+      </sources>
+   </control>
+   <cpfDescription>
+      <identity>
+         <entityType>person</entityType>
+         <nameEntry xml:lang="en-Latn">
+            <part>Acheson, Dean, 1893-1971.</part>
+            <authorizedForm>WorldCat</authorizedForm>
+         </nameEntry>
+      </identity>
+      <description>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1893"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1893</fromDate>
+               <toDate standardDate="1971"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1971</toDate>
+            </dateRange>
+         </existDates>
+      </description>
+      <relations>
+         <cpfRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:type="simple"
+                      xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person"
+                      xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith">
+            <relationEntry>White, Walter Francis, 1893-1955.</relationEntry>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#ExtractedRecordId">CtY-BR-3661048.c</span>
+               </p>
+            </descriptiveNote>
+         </cpfRelation>
+         <resourceRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn"
+                           xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource"
+                           xlink:type="simple"
+                           xlink:href="http://www.worldcat.org/oclc/3661048">
+            <relationEntry>White, Walter Francis, 1893-1955. Walter Francis White and Poppy Cannon papers, circa 1910-1958.</relationEntry>
+            <objectXMLWrap>
+               <mods xmlns="http://www.loc.gov/mods/v3">
+                  <recordInfo>
+                     <recordOrigin>WorldCat:3661048</recordOrigin>
+                     <recordContentSource>ISIL:CtY-BR</recordContentSource>
+                  </recordInfo>
+                  <name>
+                     <namePart>White, Walter Francis, 1893-1955.</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                     </role>
+                  </name>
+                  <name>
+                     <namePart>Cannon, Poppy.</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                     </role>
+                  </name>
+                  <titleInfo>
+                     <title>Walter Francis White and Poppy Cannon papers, circa 1910-1958.</title>
+                  </titleInfo>
+                  <abstract>The Walter White and Poppy Cannon Papers document the careers and lives of Walter White and Poppy Cannon. The Papers contain correspondence, writings, other papers, and photographs documenting Walter White's career as the Secretary for the  National Association for the  Advancement of Colored People and as a writer. Poppy Cannon's career as an editor, writer, and publicity consultant is also documented in the Papers. </abstract>
+                  <name>
+                     <namePart>Unknown</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+                     </role>
+                  </name>
+               </mods>
+            </objectXMLWrap>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader06">p</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader07">c</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader08">a</span>
+               </p>
+            </descriptiveNote>
+         </resourceRelation>
+      </relations>
+   </cpfDescription>
+</eac-cpf>

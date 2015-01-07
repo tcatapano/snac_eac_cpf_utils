@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://socialarchive.iath.virginia.edu/shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4">
+   <control>
+      <recordId>CtY-BR-4011629.r02</recordId>
+      <maintenanceStatus>new</maintenanceStatus>
+      <maintenanceAgency>
+         <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+      </maintenanceAgency>
+      <languageDeclaration>
+         <language languageCode="eng">English</language>
+         <script scriptCode="Zyyy">Unknown</script>
+      </languageDeclaration>
+      <maintenanceHistory>
+         <maintenanceEvent>
+            <eventType>created</eventType>
+            <eventDateTime standardDateTime="2015-01-07T13:21:05.028-05:00"/>
+            <agentType>machine</agentType>
+            <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
+            <eventDescription>Derived from MARC</eventDescription>
+         </maintenanceEvent>
+      </maintenanceHistory>
+      <sources>
+         <source xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xlink:href="http://www.worldcat.org/oclc/4011629"
+                 xlink:type="simple">
+            <objectXMLWrap>
+               <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xmlns:marc="http://www.loc.gov/MARC21/slim">
+                  <marc:leader>03551cpcaa2200589 a 4500</marc:leader>
+                  <marc:controlfield tag="001">4011629</marc:controlfield>
+                  <marc:controlfield tag="005">20110505113123.0</marc:controlfield>
+                  <marc:controlfield tag="006">t           000?0</marc:controlfield>
+                  <marc:controlfield tag="008">960926i18211855ctu                 eng d</marc:controlfield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">(OCoLC)ocn702230356</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">(YUL)ead.beinecke.dey</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">FKS1481YL</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">4011629</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="040" ind1=" " ind2=" ">
+                     <marc:subfield code="a">CtY-BR</marc:subfield>
+                     <marc:subfield code="c">CtY-BR</marc:subfield>
+                     <marc:subfield code="e">appm</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="043" ind1=" " ind2=" ">
+                     <marc:subfield code="a">n-us-tx</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="079" ind1=" " ind2=" ">
+                     <marc:subfield code="a">ocn702148361</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="100" ind1="1" ind2=" ">
+                     <marc:subfield code="a">Dey, Anthony,</marc:subfield>
+                     <marc:subfield code="d">1776-1859.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="245" ind1="1" ind2="0">
+                     <marc:subfield code="a">Anthony Dey Galveston Bay and Texas Land Company records,</marc:subfield>
+                     <marc:subfield code="f">1821-1855</marc:subfield>
+                     <marc:subfield code="g">(bulk 1830-1835).</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="300" ind1=" " ind2=" ">
+                     <marc:subfield code="a">5.87</marc:subfield>
+                     <marc:subfield code="f">linear ft. (6 boxes + 1 broadside))</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="351" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Organized into five series: I. Correspondence, 1828-1855. II. Agreements, Grants and Proposals (1826-1835). III. Court Actions, 1832-1852. IV. Financial Papers, 1821-1837. V. Printed Material, 1830-1850.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The Galveston Bay and Texas Land Company was organized in 1830 by Anthony Dey, George Curtis, and William H. Sumner. The company sold scrip which was a permit to settle on land originally granted to empresarios Joseph Vehlein, David G. Burnet, and Lorenzo de Zavala. Anthony Dey, a lawyer in New York, was the president of the company.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The records consist of correspondence, documents, account books, case files, financial papers, and printed material which document one of the   earliest Texas land companies. The correspondence concerns the company's business, dealing with agents, and receiving reports from Texas, Mexico City, and various places in Europe. Principal correspondents include John T. Mason, William H. Sumner, Jonathan Turnbull, G. H. Paulsen, and William S. Allen. Other papers in the collection include copies of grants, agreeements with agents, papers relating to court cases, highly detailed account books, printed scrip, and a small amount of printed material including newspapers, broadsides, and pamphlets.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="555" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Finding aid available.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="561" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Purchased from High Ridge Books, Inc. in 1992-1993 on the Frederick W. and Carrie S. Beinecke Fund for Western Americana.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="500" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The records have sustained water damage, mildewing, fading of ink, and incursions of insects, affecting text.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="524" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Anthony Dey Galveston Bay and Texas Land Company Records. Western Americana Collection, Beinecke Rare Book and Manuscript Library, Yale University</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="588" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Allen, William S.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Burnet, David Gouverneur,</marc:subfield>
+                     <marc:subfield code="d">1789-1870.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Curtis, George,</marc:subfield>
+                     <marc:subfield code="d">1799-1884.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Dey, Anthony,</marc:subfield>
+                     <marc:subfield code="d">1776-1859.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Mason, John T.</marc:subfield>
+                     <marc:subfield code="q">(John Thomson),</marc:subfield>
+                     <marc:subfield code="d">1787-1850.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Paulsen, G. H.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Sumner, William H(William Hyslop),</marc:subfield>
+                     <marc:subfield code="d">1780-1861.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Turnbull, Jonathan.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Vehlein, Joseph.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Zavala, Lorenzo de,</marc:subfield>
+                     <marc:subfield code="d">1788-1836.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">Galveston Bay and Texas Land Company.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Land companies</marc:subfield>
+                     <marc:subfield code="z">Texas.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Land grants</marc:subfield>
+                     <marc:subfield code="z">Texas.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Real property</marc:subfield>
+                     <marc:subfield code="z">Texas.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Coahuila and Texas (Mexico)</marc:subfield>
+                     <marc:subfield code="x">Colonization.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Texas</marc:subfield>
+                     <marc:subfield code="x">Description and travel.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Texas</marc:subfield>
+                     <marc:subfield code="x">Emigration and immigration.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Texas</marc:subfield>
+                     <marc:subfield code="x">History</marc:subfield>
+                     <marc:subfield code="y">To 1846.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Account books.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Case files.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Land grants.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="852" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="2">
+                     <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+                     <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.dey</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="927" ind1=" " ind2=" ">
+                     <marc:subfield code="a">19990816RO</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="928" ind1=" " ind2=" ">
+                     <marc:subfield code="a">AC11231999</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="948" ind1=" " ind2=" ">
+                     <marc:subfield code="a">dms</marc:subfield>
+                  </marc:datafield>
+               </marc:record>
+            </objectXMLWrap>
+         </source>
+      </sources>
+   </control>
+   <cpfDescription>
+      <identity>
+         <entityType>person</entityType>
+         <nameEntry xml:lang="en-Latn">
+            <part>Burnet, David Gouverneur, 1789-1870.</part>
+            <authorizedForm>WorldCat</authorizedForm>
+         </nameEntry>
+      </identity>
+      <description>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1789"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1789</fromDate>
+               <toDate standardDate="1870"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1870</toDate>
+            </dateRange>
+         </existDates>
+      </description>
+      <relations>
+         <cpfRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:type="simple"
+                      xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person"
+                      xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith">
+            <relationEntry>Dey, Anthony, 1776-1859.</relationEntry>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#ExtractedRecordId">CtY-BR-4011629.c</span>
+               </p>
+            </descriptiveNote>
+         </cpfRelation>
+         <resourceRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn"
+                           xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource"
+                           xlink:type="simple"
+                           xlink:href="http://www.worldcat.org/oclc/4011629">
+            <relationEntry>Dey, Anthony, 1776-1859. Anthony Dey Galveston Bay and Texas Land Company records, 1821-1855 (bulk 1830-1835).</relationEntry>
+            <objectXMLWrap>
+               <mods xmlns="http://www.loc.gov/mods/v3">
+                  <recordInfo>
+                     <recordOrigin>WorldCat:4011629</recordOrigin>
+                     <recordContentSource>ISIL:CtY-BR</recordContentSource>
+                  </recordInfo>
+                  <name>
+                     <namePart>Dey, Anthony, 1776-1859.</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                     </role>
+                  </name>
+                  <titleInfo>
+                     <title>Anthony Dey Galveston Bay and Texas Land Company records, 1821-1855 (bulk 1830-1835).</title>
+                  </titleInfo>
+                  <abstract>The records consist of correspondence, documents, account books, case files, financial papers, and printed material which document one of the   earliest Texas land companies. The correspondence concerns the company's business, dealing with agents, and receiving reports from Texas, Mexico City, and various places in Europe. Principal correspondents include John T. Mason, William H. Sumner, Jonathan Turnbull, G. H. Paulsen, and William S. Allen. Other papers in the collection include copies of grants, agreeements with agents, papers relating to court cases, highly detailed account books, printed scrip, and a small amount of printed material including newspapers, broadsides, and pamphlets. </abstract>
+                  <name>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+                     </role>
+                  </name>
+               </mods>
+            </objectXMLWrap>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader06">p</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader07">c</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader08">a</span>
+               </p>
+            </descriptiveNote>
+         </resourceRelation>
+      </relations>
+   </cpfDescription>
+</eac-cpf>

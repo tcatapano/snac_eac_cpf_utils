@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://socialarchive.iath.virginia.edu/shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4">
+   <control>
+      <recordId>CtY-BR-6248517.r05</recordId>
+      <maintenanceStatus>new</maintenanceStatus>
+      <maintenanceAgency>
+         <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+      </maintenanceAgency>
+      <languageDeclaration>
+         <language languageCode="eng">English</language>
+         <script scriptCode="Zyyy">Unknown</script>
+      </languageDeclaration>
+      <maintenanceHistory>
+         <maintenanceEvent>
+            <eventType>created</eventType>
+            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <agentType>machine</agentType>
+            <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
+            <eventDescription>Derived from MARC</eventDescription>
+         </maintenanceEvent>
+      </maintenanceHistory>
+      <sources>
+         <source xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xlink:href="http://www.worldcat.org/oclc/6248517"
+                 xlink:type="simple">
+            <objectXMLWrap>
+               <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xmlns:marc="http://www.loc.gov/MARC21/slim">
+                  <marc:leader>03247cpcaa2200505 a 4500</marc:leader>
+                  <marc:controlfield tag="001">6248517</marc:controlfield>
+                  <marc:controlfield tag="005">20120827094000.0</marc:controlfield>
+                  <marc:controlfield tag="006">t           000 0</marc:controlfield>
+                  <marc:controlfield tag="008">030619i19471963ctu                 eng d</marc:controlfield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">(OCoLC)ocn702242505</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">(YUL)ead.beinecke.agresti</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">6248517</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="040" ind1=" " ind2=" ">
+                     <marc:subfield code="a">CtY-BR</marc:subfield>
+                     <marc:subfield code="c">CtY-BR</marc:subfield>
+                     <marc:subfield code="e">appm</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="079" ind1=" " ind2=" ">
+                     <marc:subfield code="a">ocn702171432</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="100" ind1="1" ind2=" ">
+                     <marc:subfield code="a">Agresti, Olivia Rossetti.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="245" ind1="1" ind2="0">
+                     <marc:subfield code="a">Olivia Rossetti Agresti Papers,</marc:subfield>
+                     <marc:subfield code="f">1947-1963.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="300" ind1=" " ind2=" ">
+                     <marc:subfield code="a">0.67</marc:subfield>
+                     <marc:subfield code="f">linear ft. (2 boxes)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="351" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Organized into two series: I. Correspondence, 1947-1963. II. Writings, 1958.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="506" ind1="1" ind2=" ">
+                     <marc:subfield code="3">Box 2:</marc:subfield>
+                     <marc:subfield code="a">Restricted fragile material.  Reference surrogates have been substituted in the main files.  For further information consult the appropriate curator.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Olivia Rossetti Agresti (1875-1960), daughter of William Michael Rossetti, was a professional translator and author who lived in Italy from 1897 until her death.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The collection contains correspondence between Agresti and Pound documenting their political and economic views; their opinions of Mussolini and Fascism; and their disagreements on antisemitism and the Catholic Church. Other topics include news of family and mutual friends and Pound's confinement at St. Elizabeth's Hospital, as well as various efforts made on his behalf to free him. There are also letters from Dorothy Pound and several other friends of Pound, including T. S. Eliot; a few short pieces by Agresti, including one in defense of Pound; and a transcript of "Four Steps."</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="555" ind1="0" ind2=" ">
+                     <marc:subfield code="a">Finding aid available.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="561" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Gift of Ezra Pound and purchase from Olivia Rossetti Agresti through Giovanni Giovannini on the George B. Alvord Fund and the Library Associates Fund, 1959; also purchase from Bertram Rota on the Danford N. Barney Fund and the Frederick W. Hilles Fund, 1972.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="524" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Olivia Rossetti Agresti Papers. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="588" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Agresti, Olivia Rossetti.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Eliot, T. S.</marc:subfield>
+                     <marc:subfield code="q">(Thomas Stearns),</marc:subfield>
+                     <marc:subfield code="d">1888-1965.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Giovannini, Giovanni.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Mussolini, Benito,</marc:subfield>
+                     <marc:subfield code="d">1883-1945.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pound, Dorothy.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pound, Ezra,</marc:subfield>
+                     <marc:subfield code="d">1885-1972</marc:subfield>
+                     <marc:subfield code="x">Friends and associates.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pound, Ezra,</marc:subfield>
+                     <marc:subfield code="d">1885-1972</marc:subfield>
+                     <marc:subfield code="x">Political and social views.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pound, Ezra,</marc:subfield>
+                     <marc:subfield code="d">1885-1972</marc:subfield>
+                     <marc:subfield code="x">Views on money.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pound, Ezra,</marc:subfield>
+                     <marc:subfield code="d">1885-1972.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">American literature</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Antisemitism.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">European literature</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Fascism</marc:subfield>
+                     <marc:subfield code="z">Italy.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Radio in propaganda</marc:subfield>
+                     <marc:subfield code="z">Italy.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Social credit.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">World War, 1939-1945</marc:subfield>
+                     <marc:subfield code="z">Italy</marc:subfield>
+                     <marc:subfield code="x">Propaganda.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Italy</marc:subfield>
+                     <marc:subfield code="x">Civilization</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Italy</marc:subfield>
+                     <marc:subfield code="x">History</marc:subfield>
+                     <marc:subfield code="y">1922-1945.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="852" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="2">
+                     <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+                     <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.agresti</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="1">
+                     <marc:subfield code="3">View a selection of digital images in the Beinecke Library's Digital Images Online database</marc:subfield>
+                     <marc:subfield code="u">http://beinecke.library.yale.edu/dl_crosscollex/callnumSRCHXC.asp?WC=N&amp;SS=N&amp;CN=YCAL_MSS_173</marc:subfield>
+                  </marc:datafield>
+               </marc:record>
+            </objectXMLWrap>
+         </source>
+      </sources>
+   </control>
+   <cpfDescription>
+      <identity>
+         <entityType>person</entityType>
+         <nameEntry xml:lang="en-Latn">
+            <part>Pound, Ezra, 1885-1972</part>
+            <authorizedForm>WorldCat</authorizedForm>
+         </nameEntry>
+      </identity>
+      <description>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1885"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1885</fromDate>
+               <toDate standardDate="1972"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1972</toDate>
+            </dateRange>
+         </existDates>
+      </description>
+      <relations>
+         <cpfRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:type="simple"
+                      xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person"
+                      xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith">
+            <relationEntry>Agresti, Olivia Rossetti.</relationEntry>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#ExtractedRecordId">CtY-BR-6248517.c</span>
+               </p>
+            </descriptiveNote>
+         </cpfRelation>
+         <resourceRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn"
+                           xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource"
+                           xlink:type="simple"
+                           xlink:href="http://www.worldcat.org/oclc/6248517">
+            <relationEntry>Agresti, Olivia Rossetti. Olivia Rossetti Agresti Papers, 1947-1963.</relationEntry>
+            <objectXMLWrap>
+               <mods xmlns="http://www.loc.gov/mods/v3">
+                  <recordInfo>
+                     <recordOrigin>WorldCat:6248517</recordOrigin>
+                     <recordContentSource>ISIL:CtY-BR</recordContentSource>
+                  </recordInfo>
+                  <name>
+                     <namePart>Agresti, Olivia Rossetti.</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                     </role>
+                  </name>
+                  <titleInfo>
+                     <title>Olivia Rossetti Agresti Papers, 1947-1963.</title>
+                  </titleInfo>
+                  <abstract>The collection contains correspondence between Agresti and Pound documenting their political and economic views; their opinions of Mussolini and Fascism; and their disagreements on antisemitism and the Catholic Church. Other topics include news of family and mutual friends and Pound's confinement at St. Elizabeth's Hospital, as well as various efforts made on his behalf to free him. There are also letters from Dorothy Pound and several other friends of Pound, including T. S. Eliot; a few short pieces by Agresti, including one in defense of Pound; and a transcript of "Four Steps." </abstract>
+                  <name>
+                     <namePart>Unknown</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+                     </role>
+                  </name>
+               </mods>
+            </objectXMLWrap>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader06">p</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader07">c</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader08">a</span>
+               </p>
+            </descriptiveNote>
+         </resourceRelation>
+      </relations>
+   </cpfDescription>
+</eac-cpf>

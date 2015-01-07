@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://socialarchive.iath.virginia.edu/shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4">
+   <control>
+      <recordId>CtY-BR-3450904.r08</recordId>
+      <maintenanceStatus>new</maintenanceStatus>
+      <maintenanceAgency>
+         <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+      </maintenanceAgency>
+      <languageDeclaration>
+         <language languageCode="eng">English</language>
+         <script scriptCode="Zyyy">Unknown</script>
+      </languageDeclaration>
+      <maintenanceHistory>
+         <maintenanceEvent>
+            <eventType>created</eventType>
+            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <agentType>machine</agentType>
+            <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
+            <eventDescription>Derived from MARC</eventDescription>
+         </maintenanceEvent>
+      </maintenanceHistory>
+      <sources>
+         <source xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xlink:href="http://www.worldcat.org/oclc/3450904"
+                 xlink:type="simple">
+            <objectXMLWrap>
+               <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xmlns:marc="http://www.loc.gov/MARC21/slim">
+                  <marc:leader>03990cpc a2200997 a 4500</marc:leader>
+                  <marc:controlfield tag="001">3450904</marc:controlfield>
+                  <marc:controlfield tag="005">20110505112210.0</marc:controlfield>
+                  <marc:controlfield tag="008">930114i19121963ctu||          | |||eng d</marc:controlfield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">(OCoLC)ocn702221494</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">(YUL)ead.beinecke.msterne</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="9">FHH0798YL</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">3450904</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="040" ind1=" " ind2=" ">
+                     <marc:subfield code="a">CtY-BR</marc:subfield>
+                     <marc:subfield code="c">CtY-BR</marc:subfield>
+                     <marc:subfield code="e">appm</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="079" ind1=" " ind2=" ">
+                     <marc:subfield code="a">ocn702133024</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="100" ind1="1" ind2=" ">
+                     <marc:subfield code="a">Sterne, Maurice,</marc:subfield>
+                     <marc:subfield code="d">1878-1957.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="245" ind1="1" ind2="0">
+                     <marc:subfield code="a">Maurice Sterne papers,</marc:subfield>
+                     <marc:subfield code="f">1912-1963.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="300" ind1=" " ind2=" ">
+                     <marc:subfield code="a">16.75</marc:subfield>
+                     <marc:subfield code="f">linear ft. (31 boxes)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="351" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Six series: I. Correspondence, 1915-1962. II. Writings, 1919-1957. III. Family Papers, 1930-1962. IV. Photographs, 1933-1948. V. Printed Material, 1912-1957. VI. Other Papers, 1933-1963.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="545" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Maurice Sterne, Russian-born artist and sculptor, was noted for his series of paintings on Bali and was commissioned to execute a series of large murals for the Justice Department Building in Washington.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">The collection consists of correspondence, manuscripts, sketches, photographs, and papers relating to the life and career of painter-sculptor Maurice Sterne.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="555" ind1="0" ind2=" ">
+                     <marc:subfield code="a">Finding aid available.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="561" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Bequest of Vera Segal Sterne, 1965.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="524" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Maurice Sterne Collection. American Literature Collection, Beinecke Rare Book and Manuscript Library, Yale University.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="588" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Adams, Ansel,</marc:subfield>
+                     <marc:subfield code="d">1902-1984.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bender, Albert M(Albert Maurice),</marc:subfield>
+                     <marc:subfield code="d">1866-1941.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Berenson, Bernard,</marc:subfield>
+                     <marc:subfield code="d">1865-1959.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bernhardt, Sarah,</marc:subfield>
+                     <marc:subfield code="d">1844-1923.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Biddle, George,</marc:subfield>
+                     <marc:subfield code="d">1885-</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Bruce, Edward,</marc:subfield>
+                     <marc:subfield code="d">1879-1943.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Cézanne, Paul,</marc:subfield>
+                     <marc:subfield code="d">1839-1906.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Duse, Eleonora,</marc:subfield>
+                     <marc:subfield code="d">1858-1924.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Eakins, Thomas,</marc:subfield>
+                     <marc:subfield code="d">1844-1916.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Edstrom, David.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Frankfurter, Felix,</marc:subfield>
+                     <marc:subfield code="d">1882-1965.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Gogh, Vincent van,</marc:subfield>
+                     <marc:subfield code="d">1853-1890.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hapgood, Hutchins,</marc:subfield>
+                     <marc:subfield code="d">1869-1944.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Hartley, Marsden,</marc:subfield>
+                     <marc:subfield code="d">1877-1943.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Kroll, Leon,</marc:subfield>
+                     <marc:subfield code="d">1884-1974.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Luhan, Mabel Dodge,</marc:subfield>
+                     <marc:subfield code="d">1879-1962.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Matisse, Henri,</marc:subfield>
+                     <marc:subfield code="d">1869-1954.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Nazimova,</marc:subfield>
+                     <marc:subfield code="d">1879-1945.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Pascin, Jules,</marc:subfield>
+                     <marc:subfield code="d">1885-1930.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Picasso, Pablo,</marc:subfield>
+                     <marc:subfield code="d">1881-1973.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Rivera, Diego,</marc:subfield>
+                     <marc:subfield code="d">1886-1957.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Rodin, Auguste,</marc:subfield>
+                     <marc:subfield code="d">1840-1917.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Stein, Gertrude,</marc:subfield>
+                     <marc:subfield code="d">1874-1946.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Stein, Leo,</marc:subfield>
+                     <marc:subfield code="d">1872-1947.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Sterne, Maurice,</marc:subfield>
+                     <marc:subfield code="d">1878-1957.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Stone, Harlan Fiske,</marc:subfield>
+                     <marc:subfield code="d">1872-1946.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Weber, Max,</marc:subfield>
+                     <marc:subfield code="d">1864-1920.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="600" ind1="1" ind2="0">
+                     <marc:subfield code="a">Young, Stark,</marc:subfield>
+                     <marc:subfield code="d">1881-1963.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="1" ind2="0">
+                     <marc:subfield code="a">United States.</marc:subfield>
+                     <marc:subfield code="b">Dept. of the Treasury.</marc:subfield>
+                     <marc:subfield code="b">Publicity Bureau.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">National Academy of Design (U.S.)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Art criticism.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Art museums.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Art</marc:subfield>
+                     <marc:subfield code="v">Exhibitions.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Art, American.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Art, Modern</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Expressionism (Art)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Impressionism (Art)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Mural painting and decoration.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Painting</marc:subfield>
+                     <marc:subfield code="x">Technique.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Painting, Abstract.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Painting, American.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Painting, Modern</marc:subfield>
+                     <marc:subfield code="y">20th century</marc:subfield>
+                     <marc:subfield code="x">History.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Sculpture, American.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Sculpture, Modern</marc:subfield>
+                     <marc:subfield code="y">20th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Anticoli Corrado (Italy)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Athens (Greece)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Bali (Indonesia : Province)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">India.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Paris (France)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Rome (Italy)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="651" ind1=" " ind2="0">
+                     <marc:subfield code="a">Taos (N.M.)</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Autobiographies.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Exhibition catalogues.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Photoprints.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Sketchbooks.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="656" ind1=" " ind2="7">
+                     <marc:subfield code="a">Artists.</marc:subfield>
+                     <marc:subfield code="2">lcsh</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="656" ind1=" " ind2="7">
+                     <marc:subfield code="a">Painters.</marc:subfield>
+                     <marc:subfield code="2">lcsh</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="656" ind1=" " ind2="7">
+                     <marc:subfield code="a">Sculptors.</marc:subfield>
+                     <marc:subfield code="2">lcsh</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="851" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Beinecke Rare Book and Manuscript Library,</marc:subfield>
+                     <marc:subfield code="c">Box 1603A Yale Station, New Haven, CT 06520.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="2">
+                     <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+                     <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.msterne</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="927" ind1=" " ind2=" ">
+                     <marc:subfield code="a">19991011RO</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="928" ind1=" " ind2=" ">
+                     <marc:subfield code="a">AC11231999</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="948" ind1=" " ind2=" ">
+                     <marc:subfield code="a">bps</marc:subfield>
+                  </marc:datafield>
+               </marc:record>
+            </objectXMLWrap>
+         </source>
+      </sources>
+   </control>
+   <cpfDescription>
+      <identity>
+         <entityType>person</entityType>
+         <nameEntry xml:lang="en-Latn">
+            <part>Duse, Eleonora, 1858-1924.</part>
+            <authorizedForm>WorldCat</authorizedForm>
+         </nameEntry>
+      </identity>
+      <description>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1858"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1858</fromDate>
+               <toDate standardDate="1924"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1924</toDate>
+            </dateRange>
+         </existDates>
+      </description>
+      <relations>
+         <cpfRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:type="simple"
+                      xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person"
+                      xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith">
+            <relationEntry>Sterne, Maurice, 1878-1957.</relationEntry>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#ExtractedRecordId">CtY-BR-3450904.c</span>
+               </p>
+            </descriptiveNote>
+         </cpfRelation>
+         <resourceRelation xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn"
+                           xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource"
+                           xlink:type="simple"
+                           xlink:href="http://www.worldcat.org/oclc/3450904">
+            <relationEntry>Sterne, Maurice, 1878-1957. Maurice Sterne papers, 1912-1963.</relationEntry>
+            <objectXMLWrap>
+               <mods xmlns="http://www.loc.gov/mods/v3">
+                  <recordInfo>
+                     <recordOrigin>WorldCat:3450904</recordOrigin>
+                     <recordContentSource>ISIL:CtY-BR</recordContentSource>
+                  </recordInfo>
+                  <name>
+                     <namePart>Sterne, Maurice, 1878-1957.</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                     </role>
+                  </name>
+                  <titleInfo>
+                     <title>Maurice Sterne papers, 1912-1963.</title>
+                  </titleInfo>
+                  <abstract>The collection consists of correspondence, manuscripts, sketches, photographs, and papers relating to the life and career of painter-sculptor Maurice Sterne. </abstract>
+                  <name>
+                     <namePart>Unknown</namePart>
+                     <role>
+                        <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+                     </role>
+                  </name>
+               </mods>
+            </objectXMLWrap>
+            <descriptiveNote>
+               <p>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader06">p</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader07">c</span>
+                  <span localType="http://socialarchive.iath.virginia.edu/control/term#Leader08"> </span>
+               </p>
+            </descriptiveNote>
+         </resourceRelation>
+      </relations>
+   </cpfDescription>
+</eac-cpf>
