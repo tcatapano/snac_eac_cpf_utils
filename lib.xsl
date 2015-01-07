@@ -118,7 +118,9 @@
 
     <!-- <xsl:output method="xml" /> -->
     <xsl:variable name="occupations" select="document('occupations.xml')/*"/>
+    <!-- Uncommenting and changing name to relators.rdf -->
     <!-- <xsl:variable name="relators" select="document('vocabularyrelators.rdf')/*"/> -->
+    <xsl:variable name="relators" select="document('relators.rdf')/*"/>
     <xsl:variable name="custom_relators" select="document('relatorList.xml')/*"/> 
     <xsl:variable name="languages" select="document('vocabularylanguages.rdf')/*"/>
     <xsl:variable name="org_codes" select="document('worldcat_code.xml')/*"/>
