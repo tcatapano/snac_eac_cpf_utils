@@ -118,11 +118,12 @@
 
     <!-- <xsl:output method="xml" /> -->
     <xsl:variable name="occupations" select="document('occupations.xml')/*"/>
-    <!-- Uncommenting and changing name to relators.rdf -->
+    <!-- TC: Uncommenting and changing name to relators.rdf -->
     <!-- <xsl:variable name="relators" select="document('vocabularyrelators.rdf')/*"/> -->
     <xsl:variable name="relators" select="document('relators.rdf')/*"/>
     <xsl:variable name="custom_relators" select="document('relatorList.xml')/*"/> 
-    <xsl:variable name="languages" select="document('vocabularylanguages.rdf')/*"/>
+    <!-- TC: Changing name to languages.rdf -->
+    <xsl:variable name="languages" select="document('languages.rdf')/*"/>
     <xsl:variable name="org_codes" select="document('worldcat_code.xml')/*"/>
     <!-- Too many files with "places" in the name. geonames_places is less confusing. -->
     <xsl:variable name="places" select="document('geonames_places.xml')/*"/>
