@@ -65,7 +65,7 @@
         See also lib.xsl, eac_cpf.xsl.
     -->
 
-    <xsl:param name="debug" select="false()"/>
+    <xsl:param name="debug" select="true()"/>
 
     <xsl:param name="output_dir" select="'./cpf'"/>
     <xsl:param name="fallback_default" select="'US-SNAC'"/>
