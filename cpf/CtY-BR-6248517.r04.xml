@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T13:18:40.866-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -218,7 +218,7 @@
                   </titleInfo>
                   <abstract>The collection contains correspondence between Agresti and Pound documenting their political and economic views; their opinions of Mussolini and Fascism; and their disagreements on antisemitism and the Catholic Church. Other topics include news of family and mutual friends and Pound's confinement at St. Elizabeth's Hospital, as well as various efforts made on his behalf to free him. There are also letters from Dorothy Pound and several other friends of Pound, including T. S. Eliot; a few short pieces by Agresti, including one in defense of Pound; and a transcript of "Four Steps." </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

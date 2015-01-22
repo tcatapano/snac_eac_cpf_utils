@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T13:18:40.866-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -294,7 +294,7 @@
                   </titleInfo>
                   <abstract>The collection consists of correspondence to, from, and about Aïdé; his diary for a trip to Switzerland in the second half of 1870, a scrapbook of reviews of his work, and miscellaneous poetry and prose pieces. The correspondence is both personal and business oriented, including letters from publishers, editors and friends regarding the publicaton of novels and songs. Principal correspondents include Matthew Arnold, Frances Hodgson Burnett,James Anthony Froude, William Money Hardinge, Henry James, Fanny Kemble, Edward Robert Bulwer Lytton, and William Stirling Maxwell. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

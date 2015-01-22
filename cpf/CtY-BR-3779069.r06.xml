@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T12:17:54.635-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -289,7 +289,7 @@
                   </titleInfo>
                   <abstract>The Henry Seidel Canby Papers document many aspects of Canby's personal life and professional activities as a writer, editor, and educator. The collection includes correspondence, manuscripts, lecture notes and other course materials. Canby corresponded with educators, literary critics,publishers, writers and other public figures. Correspondents include Sherwood Anderson, Mary Hunter Austin, Stephen Vincent Benét, Robert Seymour Bridges, Willa Cather, Jerome Davis, Walter De La Mare, Bernard De Voto, Lee Wilson Dodd, T. S. Eliot, Dorothy Canfield Fisher, George Frisbee, Ernest Gruening, Ezra Pound, H. M. Tomlinson, and Louis Untermeyer. Manuscripts include drafts of many of Canby's books, articles, essays and speeches. Canby's affiliation with Yale University as a student and later as a faculty member is documented by his correspondence and by lecture notes and related course materials. Canby's sister Kit attended Vassar College and the correspondence files include her letters written while she was a student in the 1890s. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

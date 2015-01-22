@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T12:17:54.635-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -339,7 +339,7 @@
          </place>
          <biogHist>
             <p>George Wolfe Plank (1883-1963), illustrator, was a self-taught artist and from 1907-09 was one of the editors and printers of The Butterfly Quarterly, published in Philadelphia. In 1916 he moved to England and became a naturalized British citizen in 1945. He supplied illustrations for Vogue and for books of friends, like The Freaks of Mayfair (1916) by E. F. Benson and Hedgehog (1926) by H. D.</p>
-            <citation>From the description of George Plank papers, 1907-1965 (inclusive) (Unknown). WorldCat record id: 3251340</citation>
+            <citation>From the description of George Plank papers, 1907-1965 (inclusive) (Yale University, Beinecke Rare Book and Manuscript Library). WorldCat record id: 3251340</citation>
          </biogHist>
       </description>
       <relations>
@@ -564,7 +564,7 @@
                   </titleInfo>
                   <abstract>The papers contain correspondence with artistic and literary friends, Plank art work, art work of others, writings of friends, and a small quantity of personal papers. Prominent correspondents include H. D., Sylvia Townsend Warner, and Patrick White. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

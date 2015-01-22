@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T16:33:23.875-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -231,7 +231,7 @@
          <biogHist>
             <p>R. A. Adams was born on 28 February 1869 in Vicksburg, Mississippi. He attended Payne Theological Seminary in Wilberforce, Ohio, and served as a Methodist minister in Clarksdale, Brookhaven, Jackson, and Natchez, Mississippi. According to his own biographical statement, Adams entered the ministry, presumably of the African Methodist Episcopal Church, on 23 August 1891 and worked in the pastorate until 1910, after which time he traveled around the South and parts of the Midwest and Mid-Atlantic regions as an evangelist and lecturer. He wrote and lectured on the topics of religion, theology, philosophy, race, eugenics, prophylactics, and social behavior. As president and presumably founder of The Progress Publishing Co. in Wichita, Kansas, he collaborated on and published pamphlets on the same topics, including his own Highlights of Negro History, Psychoanalysis and Racial Affinity, and Syphilis, The Black Plague.</p>
             <p>In addition to sermons and lectures, Adams also wrote novels, critical essays, poetry, and music, most, if not all, of which were never published. His novels include Babylon, described by Adams as "Religious - Sociological - Interracial - Stresses Gospel as Panacea for all Social Ills", Deacon Simpson, "Story of Negro Church Life - Contrasting Old, Unlettered Ministers with Modern Products - Evolution in Negro Church Life", and The Great Cathedral, "Exposure of Graft, Corruption, Autocracy, and Ecclesiastical Misfeasance - Predicting Revolution and Reformation of the Negro Church". His critical essays likewise explore the African American Church in the late 19th and early 20th centuries, in addition to other topics, and include works such as "The Negro and His Church" and "The Negro Church - What Ails It?".</p>
-            <citation>From the description of R. A. Adams papers, 1902-1945. (Unknown). WorldCat record id: 8507429</citation>
+            <citation>From the description of R. A. Adams papers, 1902-1945. (Yale University, Beinecke Rare Book and Manuscript Library). WorldCat record id: 8507429</citation>
          </biogHist>
       </description>
       <relations>
@@ -291,7 +291,7 @@
                   </titleInfo>
                   <abstract>The collection consists of writings, sheet music, scrapbooks, photographs, and other papers, stemming from R. A.  Adams's activities as an evangelistic minister of the African Methodist Episcopal Church and as a writer, lecturer, and publisher of pamphlets on topics relating to race, religion, contraception, interpersonal relations, and socioeconomics.  The collection documents aspects of African American religion and culture, especially in the South, in the early 20th century, and in particular the evangelistic, educational, and literary activities of one African American Methodist minister. Writings by Adams comprise the bulk of the collection and include typescripts, some of which are corrected, and manuscripts of addresses, sermons, and critical essays, as well as typescripts and manuscripts of creative works such as poetry, novels, and a play. Also included are typescripts of writings by others, on which Adams collaborated or which he seems to have published as president of The Progress Publishing Co.; as well as typescripts of musical programs and sheet music for songs by Adams; scrapbooks containing correspondence, letters of introduction, resolutions, testimonials, and clippings, documenting Adams's evangelistic activities from 1910 to 1921; photographs of Adams and his family; and printed material and other loose papers. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

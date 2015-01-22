@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T12:17:54.635-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -247,7 +247,7 @@
                   </titleInfo>
                   <abstract>The records consist of correspondence, documents, account books, case files, financial papers, and printed material which document one of the   earliest Texas land companies. The correspondence concerns the company's business, dealing with agents, and receiving reports from Texas, Mexico City, and various places in Europe. Principal correspondents include John T. Mason, William H. Sumner, Jonathan Turnbull, G. H. Paulsen, and William S. Allen. Other papers in the collection include copies of grants, agreeements with agents, papers relating to court cases, highly detailed account books, printed scrip, and a small amount of printed material including newspapers, broadsides, and pamphlets. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

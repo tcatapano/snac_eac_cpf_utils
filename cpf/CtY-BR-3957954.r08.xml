@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T12:17:54.635-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -276,7 +276,7 @@
                   </titleInfo>
                   <abstract>The Nichols family correspondence consists primarily of business letters received by John Nichols, John Bowyer Nichols, and John Gough Nichols. Many of the letters are from authors whose work appeared in the popular and influential Gentleman's Magazine. Subjects include articles submitted for the magazine; letters to the editor and corrections of previous articles; business arrangements; and subscription and advertising negotiations. Many correspondents also discuss antiquarian and historical topics, including archaeological finds and numismatics, often in the context of proposing articles for  Gentleman's Magazine or longer works for publication by Nichols &amp; Co. Major correspondents include John Yonge Akerman, Thomas Blore, William Bray, Sir Egerton Brydges, Sir Henry Ellis, Maria Cantwell, Sir Richard Colt Hoare, Joseph Palmer, and Sir Charles George Young. There is also a small amount of personal and family correspondence among the printers themselves and with other members of the Nichols family. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

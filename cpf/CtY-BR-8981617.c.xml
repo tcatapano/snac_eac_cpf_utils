@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T12:17:54.635-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -178,7 +178,7 @@
          </place>
          <biogHist>
             <p>Ellery Queen is a pseudonym of Frederic Dannay (1905-1982) and Manfred B. Lee (1905-1971), who were cousins. Between 1928 and 1971, the Ellery Queen writing team wrote radio shows, a monthly magazine, a weekly newspaper series, novels, and television series all centered around the investigator "Ellery Queen." In the beginning of their writing career, Dannay and Lee kept their identities secret, but revealed their authorship in 1936. Dannay and Lee were also the co-writers of the Barnaby Ross mystery novels.</p>
-            <citation>From the description of Ellery Queen papers, 1929-1972 (bulk 1946-1971). (Unknown). WorldCat record id: 8981617</citation>
+            <citation>From the description of Ellery Queen papers, 1929-1972 (bulk 1946-1971). (Yale University, Beinecke Rare Book and Manuscript Library). WorldCat record id: 8981617</citation>
          </biogHist>
       </description>
       <relations>
@@ -255,7 +255,7 @@
                   </titleInfo>
                   <abstract>The Ellery Queen Papers document the mystery writing career of Frederic Dannay and Manfred B. Lee, writing as "Ellery Queen."  The collection includes correspondence, fan mail, telegrams, advertisements, proposals for ventures, photographs, and ephemera relating to Ellery Queen. The collection does not include drafts of manuscripts, but includes American  Weekly newspaper articles, likely written by Lee, with clippings describing authentic murder cases, and fan mail documenting their 1948 radio play "A Question of Color." Some of Manfred B. Lee's personal papers such as correspondence and photographs are also included. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

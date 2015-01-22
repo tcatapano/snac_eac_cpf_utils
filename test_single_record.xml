@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:marc="http://www.loc.gov/MARC21/slim"
+      xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+      <marc:leader>03455ckc a2200541 a 4500</marc:leader>
+      <marc:controlfield tag="001">9069561</marc:controlfield>
+      <marc:controlfield tag="005">20120305133437.0</marc:controlfield>
+      <marc:controlfield tag="007">kf co</marc:controlfield>
+      <marc:controlfield tag="008">091102i18871988ctunnn            kneng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocn702068850</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="9">(YUL)ead.beinecke.advertisements</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">9069561</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">CtY-BR</marc:subfield>
+         <marc:subfield code="c">CtY-BR</marc:subfield>
+         <marc:subfield code="e">gihc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="041" ind1="0" ind2=" ">
+         <marc:subfield code="a">eng</marc:subfield>
+         <marc:subfield code="a">ita</marc:subfield>
+         <marc:subfield code="a">ger</marc:subfield>
+         <marc:subfield code="a">fre</marc:subfield>
+         <marc:subfield code="a">dut</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="079" ind1=" " ind2=" ">
+         <marc:subfield code="a">ocn701864673</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="0">
+         <marc:subfield code="a">Collection of advertisements that depict American history.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="c">1887-1988, bulk 1887-1940.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">8.28</marc:subfield>
+         <marc:subfield code="f">linear feet (14 boxes)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="351" ind1=" " ind2=" ">
+         <marc:subfield code="a">Organized into two series:  I. 2009 Acquisition, circa 1870-1988. II. 2010 Acquisition, 1870-1994.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1=" " ind2=" ">
+         <marc:subfield code="a">This collection consists of collecting cards, advertising cards, sticker books, sheet music, and printed ephemera that document popular culture images of the United States and North America as viewed chiefly by countries throughout Europe, including France, Great Britain, Belgium, Germany, and Italy. The collection provides depictions of American subjects and themes from primarily European viewpoints used by companies to advertise their products or as premiums accompanying products. Subjects particularly well represented include Indians of North America and the American West, as well as natural landscapes and historical events, such as national parks and the American Civil War. Prominent individuals represented in the collection include United States presidents, particularly George Washington and Abraham Lincoln, and historical figures including Daniel Boone, Sitting Bull, Kit Carson, and Wyatt Earp.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="555" ind1="0" ind2=" ">
+         <marc:subfield code="a">Finding aid available.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="561" ind1=" " ind2=" ">
+         <marc:subfield code="a">Purchased from Kevin Jackson on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2009-2010.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="546" ind1=" " ind2=" ">
+         <marc:subfield code="a">In English, Italian, German, French, and Dutch.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Title devised by cataloger.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">This is an open collection to which additions are expected. Consequently, it is organized by accession, with the contents of each accession arranged in parallel fashion.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="524" ind1=" " ind2=" ">
+         <marc:subfield code="a">Collection of Advertisements that Depict American History. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="588" ind1=" " ind2=" ">
+         <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Boone, Daniel,</marc:subfield>
+         <marc:subfield code="d">1734-1820</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Carson, Kit,</marc:subfield>
+         <marc:subfield code="d">1809-1868</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Earp, Wyatt,</marc:subfield>
+         <marc:subfield code="d">1848-1929</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Lincoln, Abraham,</marc:subfield>
+         <marc:subfield code="d">1809-1865</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="0" ind2="0">
+         <marc:subfield code="a">Sitting Bull,</marc:subfield>
+         <marc:subfield code="d">1831-1890</marc:subfield>
+         <marc:subfield code="v">Portraits.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Washington, George,</marc:subfield>
+         <marc:subfield code="d">1732-1799</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Advertising</marc:subfield>
+         <marc:subfield code="z">Europe.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Frontier and pioneer life</marc:subfield>
+         <marc:subfield code="z">West (U.S.)</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Indians of North America</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Popular culture</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Presidents</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="0">
+         <marc:subfield code="a">United States</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="0">
+         <marc:subfield code="a">United States</marc:subfield>
+         <marc:subfield code="x">History</marc:subfield>
+         <marc:subfield code="y">Civil War, 1861-1865</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="0">
+         <marc:subfield code="a">West (U.S.)</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Advertising cards.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Chromolithographs.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Printed ephemera.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Sheet music.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Sticker books.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="852" ind1=" " ind2=" ">
+         <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="2">
+         <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.advertisements</marc:subfield>
+      </marc:datafield>
+   </marc:record>

@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T16:33:23.875-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -229,7 +229,7 @@
          </place>
          <biogHist>
             <p>Harold Acton was a British writer and scholar. His works include The Last Medici (1932), The Bourbons of Naples, 1734-1825 (1956), and two memoirs, Memoirs of an Aesthete (1948) and More Memoirs of an Aesthete (1970). Acton lived in China from 1933 to 1939, during which time he supported himself by teaching English Literature and collaborated with others to translate various Chinese literary works. His translations include Glue and Lacquer: Four Cautionary Tales (1941) and the unpublished Popular Chinese Plays. He wrote a novel, Peonies and Ponies (1941), about British expatriate life in Beijing before the Second World War. Acton returned to England in 1939 and shortly thereafter embarked upon a lecture tour of Italy under the auspices of the British Council to promote continuing ties between England and Italy at a time when the two countries were on the verge of war.</p>
-            <citation>From the description of Harold Acton papers, 1932-1941. (Unknown). WorldCat record id: 8869893</citation>
+            <citation>From the description of Harold Acton papers, 1932-1941. (Yale University, Beinecke Rare Book and Manuscript Library). WorldCat record id: 8869893</citation>
          </biogHist>
       </description>
       <relations>
@@ -388,7 +388,7 @@
                   </titleInfo>
                   <abstract>The collection consists of manuscript and typescript drafts of Harold Acton's translations of Chinese literary works and his writings; correspondence from Chinese, English, and American scholars and friends; material relating to Acton's lecture tour of Italy; and other papers.  Highlights include the unpublished manuscript for Popular Chinese Plays, as well as correspondence concerning its projected publication by Henry Vetch.  Also included is an annotated typescript and related correspondence for Acton's novel, Peonies and Ponies (1941).  Material sheds light on the development of literary translation between Chinese and English and the influence of China on British intellectual history and literary life during the period preceding the Second World War. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

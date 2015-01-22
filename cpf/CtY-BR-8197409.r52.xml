@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T12:17:54.635-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -1020,7 +1020,7 @@
                   </titleInfo>
                   <abstract>The collection consists of material created and accumulated by John Hollander in the course of his various literary and teaching activities.  Material includes correspondence with poets, authors, critics, academics, and composers; drafts and manuscripts of poems and essays; typescripts of writings by others and related correspondence; files relating to classes taught; music material; and other papers.  The collection documents Hollander's prolific career as a poet and literary critic, as well as his relationships with other key literary figures of the late twentieth and early twenty-first century. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

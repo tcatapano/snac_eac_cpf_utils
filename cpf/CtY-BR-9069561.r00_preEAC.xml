@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inc_orig xmlns="urn:isbn:1-931666-33-4">true</inc_orig>
+<agency_info xmlns="urn:isbn:1-931666-33-4">
+   <agencyCode>CtY-BR</agencyCode>
+   <agencyName>Yale University, Beinecke Rare Book and Manuscript Library</agencyName>
+</agency_info>
+<snac_info xmlns="urn:isbn:1-931666-33-4">
+   <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+</snac_info>
+<citation xmlns="urn:isbn:1-931666-33-4">From the description of Collection of advertisements that depict American history. 1887-1988, bulk 1887-1940. (Yale University, Beinecke Rare Book and Manuscript Library). WorldCat record id: 9069561</citation>
+<ev_desc xmlns="urn:isbn:1-931666-33-4">Derived from MARC</ev_desc>
+<rules xmlns="urn:isbn:1-931666-33-4">WorldCat</rules>
+<xlink_href xmlns="urn:isbn:1-931666-33-4">http://www.worldcat.org/oclc</xlink_href>
+<xlink_role xmlns="urn:isbn:1-931666-33-4">http://socialarchive.iath.virginia.edu/control/term#ArchivalResource</xlink_role>
+<av_Leader06 xmlns="urn:isbn:1-931666-33-4">http://socialarchive.iath.virginia.edu/control/term#Leader06</av_Leader06>
+<av_Leader07 xmlns="urn:isbn:1-931666-33-4">http://socialarchive.iath.virginia.edu/control/term#Leader07</av_Leader07>
+<av_Leader08 xmlns="urn:isbn:1-931666-33-4">http://socialarchive.iath.virginia.edu/control/term#Leader08</av_Leader08>
+<container xmlns="urn:isbn:1-931666-33-4">
+   <e_name cpf_entity_type="person"
+           cp_count="0"
+           tag="600"
+           record_id="CtY-BR-9069561"
+           entity_type="Person"
+           entity_type_fc=""
+           fn_suffix="r00"
+           expanded_suffix="P"
+           is_creator="false">Boone, Daniel, 1734-1820</e_name>
+   <occ/>
+   <func/>
+   <existDates>
+      <dateRange>
+         <fromDate standardDate="1734"
+                   localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1734</fromDate>
+         <toDate standardDate="1820"
+                 localType="http://socialarchive.iath.virginia.edu/control/term#Death">1820</toDate>
+      </dateRange>
+   </existDates>
+   <subordinateAgency/>
+   <earlierLaterEntries/>
+</container>
+<existDates xmlns="urn:isbn:1-931666-33-4">
+   <dateRange>
+      <fromDate standardDate="1734"
+                localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1734</fromDate>
+      <toDate standardDate="1820"
+              localType="http://socialarchive.iath.virginia.edu/control/term#Death">1820</toDate>
+   </dateRange>
+</existDates>
+<entity_type xmlns="urn:isbn:1-931666-33-4">person</entity_type>
+<leader06 xmlns="urn:isbn:1-931666-33-4">k</leader06>
+<leader07 xmlns="urn:isbn:1-931666-33-4">c</leader07>
+<leader08 xmlns="urn:isbn:1-931666-33-4"> </leader08>
+<mods xmlns="urn:isbn:1-931666-33-4">WorldCat:9069561ISIL:CtY-BRCollection of advertisements that depict American history. 1887-1988, bulk 1887-1940.This collection consists of collecting cards, advertising cards, sticker books, sheet music, and printed ephemera that document popular culture images of the United States and North America as viewed chiefly by countries throughout Europe, including France, Great Britain, Belgium, Germany, and Italy. The collection provides depictions of American subjects and themes from primarily European viewpoints used by companies to advertise their products or as premiums accompanying products. Subjects particularly well represented include Indians of North America and the American West, as well as natural landscapes and historical events, such as national parks and the American Civil War. Prominent individuals represented in the collection include United States presidents, particularly George Washington and Abraham Lincoln, and historical figures including Daniel Boone, Sitting Bull, Kit Carson, and Wyatt Earp. Yale University, Beinecke Rare Book and Manuscript LibraryRepository</mods>
+<rel_entry xmlns="urn:isbn:1-931666-33-4">Collection of advertisements that depict American history.</rel_entry>
+<arc_role xmlns="urn:isbn:1-931666-33-4">http://socialarchive.iath.virginia.edu/control/term#referencedIn</arc_role>
+<controlfield_001 xmlns="urn:isbn:1-931666-33-4">9069561</controlfield_001>
+<is_c_flag xmlns="urn:isbn:1-931666-33-4">false</is_c_flag>
+<is_r_flag xmlns="urn:isbn:1-931666-33-4">true</is_r_flag>
+<fn_suffix xmlns="urn:isbn:1-931666-33-4">r00</fn_suffix>
+<cpf_relation xmlns="urn:isbn:1-931666-33-4"/>
+<record_id xmlns="urn:isbn:1-931666-33-4">CtY-BR-9069561</record_id>
+<date xmlns="urn:isbn:1-931666-33-4">2015-01-22T13:28:49.488-05:00</date>
+<xslt_vendor xmlns="urn:isbn:1-931666-33-4">Saxonica</xslt_vendor>
+<xslt_version xmlns="urn:isbn:1-931666-33-4">2.0</xslt_version>
+<xslt_vendor_url xmlns="urn:isbn:1-931666-33-4">http://www.saxonica.com/</xslt_vendor_url>
+<tag_545 xmlns="urn:isbn:1-931666-33-4"/>
+<tag_245 xmlns="urn:isbn:1-931666-33-4">Collection of advertisements that depict American history.</tag_245>
+<xslt_script xmlns="urn:isbn:1-931666-33-4">oclc_marc2cpf.xsl</xslt_script>
+<original xmlns="urn:isbn:1-931666-33-4">03455ckc a2200541 a 4500906956120120305133437.0kf co091102i18871988ctunnn            kneng d(OCoLC)ocn702068850(YUL)ead.beinecke.advertisements9069561CtY-BRCtY-BRgihcengitagerfredutn-us---ocn701864673Collection of advertisements that depict American history.1887-1988, bulk 1887-1940.8.28linear feet (14 boxes)Organized into two series:  I. 2009 Acquisition, circa 1870-1988. II. 2010 Acquisition, 1870-1994.This collection consists of collecting cards, advertising cards, sticker books, sheet music, and printed ephemera that document popular culture images of the United States and North America as viewed chiefly by countries throughout Europe, including France, Great Britain, Belgium, Germany, and Italy. The collection provides depictions of American subjects and themes from primarily European viewpoints used by companies to advertise their products or as premiums accompanying products. Subjects particularly well represented include Indians of North America and the American West, as well as natural landscapes and historical events, such as national parks and the American Civil War. Prominent individuals represented in the collection include United States presidents, particularly George Washington and Abraham Lincoln, and historical figures including Daniel Boone, Sitting Bull, Kit Carson, and Wyatt Earp.Finding aid available.Purchased from Kevin Jackson on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2009-2010.In English, Italian, German, French, and Dutch.Title devised by cataloger.This is an open collection to which additions are expected. Consequently, it is organized by accession, with the contents of each accession arranged in parallel fashion.Collection of Advertisements that Depict American History. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0Boone, Daniel,1734-1820Pictorial works.Carson, Kit,1809-1868Pictorial works.Earp, Wyatt,1848-1929Pictorial works.Lincoln, Abraham,1809-1865Pictorial works.Sitting Bull,1831-1890Portraits.Washington, George,1732-1799Pictorial works.AdvertisingEurope.Frontier and pioneer lifeWest (U.S.)Pictorial works.Indians of North AmericaPictorial works.Popular culturePictorial works.PresidentsUnited StatesPictorial works.United StatesPictorial works.United StatesHistoryCivil War, 1861-1865Pictorial works.West (U.S.)Pictorial works.Advertising cards.aatChromolithographs.aatPrinted ephemera.aatSheet music.aatSticker books.aatBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CTView a description and list of collection contents in the Yale Finding Aid Database.http://hdl.handle.net/10079/fa/beinecke.advertisements</original>
+<lang_decl xmlns="urn:isbn:1-931666-33-4">EnglishUnknown</lang_decl>
+<topical_subject xmlns="urn:isbn:1-931666-33-4">AdvertisingFrontier and pioneer life--Pictorial worksIndians of North America--Pictorial worksPopular culture--Pictorial worksPresidents--Pictorial works</topical_subject>
+<geographic_subject xmlns="urn:isbn:1-931666-33-4">EuropeWest (U.S.)United States</geographic_subject>
+<language xmlns="urn:isbn:1-931666-33-4"/>
+<param_data xmlns="urn:isbn:1-931666-33-4">trueCtY-BRYale University, Beinecke Rare Book and Manuscript LibrarySNAC: Social Networks and Archival Context ProjectFrom the description of Collection of advertisements that depict American history. 1887-1988, bulk 1887-1940. (Yale University, Beinecke Rare Book and Manuscript Library). WorldCat record id: 9069561Derived from MARCWorldCathttp://www.worldcat.org/oclchttp://socialarchive.iath.virginia.edu/control/term#ArchivalResourcehttp://socialarchive.iath.virginia.edu/control/term#Leader06http://socialarchive.iath.virginia.edu/control/term#Leader07http://socialarchive.iath.virginia.edu/control/term#Leader08Boone, Daniel, 1734-182017341820</param_data>

@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T12:17:54.635-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -253,7 +253,7 @@
                   </titleInfo>
                   <abstract>The Eugene O'Neill Collection consists of material by or pertaining to O'Neill, including correspondence, writings of O'Neill, writings of others, photographs, legal documents, clippings, and programs. Correspondents include O'Neill's lawyers, Harry Weinberger and Winfield E. Aronberg; a collector of his works, Keith H. Baker; his agent, Kenneth Macgowan; his and Carlotta's friends Dale Edward Fern, Armina Marshall, Dudley Nichols, Robert Sisk, Fania Marinoff Van Vechten, and Marion Welch; and Carlotta's daughter, Cynthia Chapman Stram, and her grandson, Gerald Eugene Stram. There are letters between O'Neill's biographers and others to Gaylord Farm Sanatorium regarding his stay there, and between biographer Louis Sheaffer and Hazel A. Johnson. There is also correspondence between Harry Weinberger and Agnes Boulton regarding her divorce settlement with O'Neill. Writings include drafts, proofs, programs, and clippings for some of O'Neill's plays, as well as works by others about O'Neill's life and writings. The photographs include prints of O'Neill and his family, among other subjects. There are also legal documents regarding his plays, and versions of Carlotta's wills. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

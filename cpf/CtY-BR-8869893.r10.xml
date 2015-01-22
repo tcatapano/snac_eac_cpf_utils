@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T16:33:23.875-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -226,7 +226,7 @@
                   </titleInfo>
                   <abstract>The collection consists of manuscript and typescript drafts of Harold Acton's translations of Chinese literary works and his writings; correspondence from Chinese, English, and American scholars and friends; material relating to Acton's lecture tour of Italy; and other papers.  Highlights include the unpublished manuscript for Popular Chinese Plays, as well as correspondence concerning its projected publication by Henry Vetch.  Also included is an annotated typescript and related correspondence for Acton's novel, Peonies and Ponies (1941).  Material sheds light on the development of literary translation between Chinese and English and the influence of China on British intellectual history and literary life during the period preceding the Second World War. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

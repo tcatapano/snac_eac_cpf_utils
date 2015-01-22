@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-22T13:14:25.25-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -26,7 +26,8 @@
                  xlink:type="simple">
             <objectXMLWrap>
                <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                            xmlns:marc="http://www.loc.gov/MARC21/slim">
+                            xmlns:marc="http://www.loc.gov/MARC21/slim"
+                            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
                   <marc:leader>03455ckc a2200541 a 4500</marc:leader>
                   <marc:controlfield tag="001">9069561</marc:controlfield>
                   <marc:controlfield tag="005">20120305133437.0</marc:controlfield>
@@ -230,7 +231,7 @@
                   </titleInfo>
                   <abstract>This collection consists of collecting cards, advertising cards, sticker books, sheet music, and printed ephemera that document popular culture images of the United States and North America as viewed chiefly by countries throughout Europe, including France, Great Britain, Belgium, Germany, and Italy. The collection provides depictions of American subjects and themes from primarily European viewpoints used by companies to advertise their products or as premiums accompanying products. Subjects particularly well represented include Indians of North America and the American West, as well as natural landscapes and historical events, such as national parks and the American Civil War. Prominent individuals represented in the collection include United States presidents, particularly George Washington and Abraham Lincoln, and historical figures including Daniel Boone, Sitting Bull, Kit Carson, and Wyatt Earp. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

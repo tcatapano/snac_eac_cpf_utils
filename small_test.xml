@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:marc="http://www.loc.gov/MARC21/slim"
+                 xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <marc:record>
+      <marc:leader>03455ckc a2200541 a 4500</marc:leader>
+      <marc:controlfield tag="001">9069561</marc:controlfield>
+      <marc:controlfield tag="005">20120305133437.0</marc:controlfield>
+      <marc:controlfield tag="007">kf co</marc:controlfield>
+      <marc:controlfield tag="008">091102i18871988ctunnn            kneng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocn702068850</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="9">(YUL)ead.beinecke.advertisements</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">9069561</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">CtY-BR</marc:subfield>
+         <marc:subfield code="c">CtY-BR</marc:subfield>
+         <marc:subfield code="e">gihc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="041" ind1="0" ind2=" ">
+         <marc:subfield code="a">eng</marc:subfield>
+         <marc:subfield code="a">ita</marc:subfield>
+         <marc:subfield code="a">ger</marc:subfield>
+         <marc:subfield code="a">fre</marc:subfield>
+         <marc:subfield code="a">dut</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="079" ind1=" " ind2=" ">
+         <marc:subfield code="a">ocn701864673</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="0">
+         <marc:subfield code="a">Collection of advertisements that depict American history.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="c">1887-1988, bulk 1887-1940.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">8.28</marc:subfield>
+         <marc:subfield code="f">linear feet (14 boxes)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="351" ind1=" " ind2=" ">
+         <marc:subfield code="a">Organized into two series:  I. 2009 Acquisition, circa 1870-1988. II. 2010 Acquisition, 1870-1994.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1=" " ind2=" ">
+         <marc:subfield code="a">This collection consists of collecting cards, advertising cards, sticker books, sheet music, and printed ephemera that document popular culture images of the United States and North America as viewed chiefly by countries throughout Europe, including France, Great Britain, Belgium, Germany, and Italy. The collection provides depictions of American subjects and themes from primarily European viewpoints used by companies to advertise their products or as premiums accompanying products. Subjects particularly well represented include Indians of North America and the American West, as well as natural landscapes and historical events, such as national parks and the American Civil War. Prominent individuals represented in the collection include United States presidents, particularly George Washington and Abraham Lincoln, and historical figures including Daniel Boone, Sitting Bull, Kit Carson, and Wyatt Earp.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="555" ind1="0" ind2=" ">
+         <marc:subfield code="a">Finding aid available.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="561" ind1=" " ind2=" ">
+         <marc:subfield code="a">Purchased from Kevin Jackson on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2009-2010.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="546" ind1=" " ind2=" ">
+         <marc:subfield code="a">In English, Italian, German, French, and Dutch.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Title devised by cataloger.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">This is an open collection to which additions are expected. Consequently, it is organized by accession, with the contents of each accession arranged in parallel fashion.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="524" ind1=" " ind2=" ">
+         <marc:subfield code="a">Collection of Advertisements that Depict American History. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="588" ind1=" " ind2=" ">
+         <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Boone, Daniel,</marc:subfield>
+         <marc:subfield code="d">1734-1820</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Carson, Kit,</marc:subfield>
+         <marc:subfield code="d">1809-1868</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Earp, Wyatt,</marc:subfield>
+         <marc:subfield code="d">1848-1929</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Lincoln, Abraham,</marc:subfield>
+         <marc:subfield code="d">1809-1865</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="0" ind2="0">
+         <marc:subfield code="a">Sitting Bull,</marc:subfield>
+         <marc:subfield code="d">1831-1890</marc:subfield>
+         <marc:subfield code="v">Portraits.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Washington, George,</marc:subfield>
+         <marc:subfield code="d">1732-1799</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Advertising</marc:subfield>
+         <marc:subfield code="z">Europe.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Frontier and pioneer life</marc:subfield>
+         <marc:subfield code="z">West (U.S.)</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Indians of North America</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Popular culture</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Presidents</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="0">
+         <marc:subfield code="a">United States</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="0">
+         <marc:subfield code="a">United States</marc:subfield>
+         <marc:subfield code="x">History</marc:subfield>
+         <marc:subfield code="y">Civil War, 1861-1865</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="0">
+         <marc:subfield code="a">West (U.S.)</marc:subfield>
+         <marc:subfield code="v">Pictorial works.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Advertising cards.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Chromolithographs.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Printed ephemera.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Sheet music.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Sticker books.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="852" ind1=" " ind2=" ">
+         <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="2">
+         <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.advertisements</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>03773cpcaa2200541 a 4500</marc:leader>
+      <marc:controlfield tag="001">8869893</marc:controlfield>
+      <marc:controlfield tag="005">20110505164630.0</marc:controlfield>
+      <marc:controlfield tag="008">090624i19321941ctu                 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocn702250253</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="9">(YUL)ead.beinecke.acton</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">8869893</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">CtY-BR</marc:subfield>
+         <marc:subfield code="c">CtY-BR</marc:subfield>
+         <marc:subfield code="e">dacs</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="041" ind1="1" ind2=" ">
+         <marc:subfield code="a">eng</marc:subfield>
+         <marc:subfield code="a">chi</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="079" ind1=" " ind2=" ">
+         <marc:subfield code="a">ocn702196486</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Acton, Harold,</marc:subfield>
+         <marc:subfield code="d">1904-1994.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Harold Acton papers,</marc:subfield>
+         <marc:subfield code="f">1932-1941.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">3.83</marc:subfield>
+         <marc:subfield code="f">linear feet (5 boxes)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="351" ind1=" " ind2=" ">
+         <marc:subfield code="a">Organized into four series: I. Translations and Writings, 1933-1941. II. Correspondence, 1935-1941. III. Other Papers, 1932-1941. IV. Lecture Tour in Italy, 1940.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="545" ind1=" " ind2=" ">
+         <marc:subfield code="a">Harold Acton was a British writer and scholar. His works include The Last Medici (1932), The Bourbons of Naples, 1734-1825 (1956), and two memoirs, Memoirs of an Aesthete (1948) and More Memoirs of an Aesthete (1970).  Acton lived in China from 1933 to 1939, during which time he supported himself by teaching English Literature and collaborated with others to translate various Chinese literary works. His  translations include Glue and Lacquer: Four Cautionary Tales (1941) and the unpublished Popular Chinese Plays. He wrote a novel, Peonies and Ponies (1941), about British expatriate life in Beijing before the Second World War. Acton returned to England in 1939 and shortly thereafter embarked upon a lecture tour of Italy under the auspices of the British Council to promote continuing ties between England and Italy at a time when the two countries were on the verge of war.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1=" " ind2=" ">
+         <marc:subfield code="a">The collection consists of manuscript and typescript drafts of Harold Acton's translations of Chinese literary works and his writings; correspondence from Chinese, English, and American scholars and friends; material relating to Acton's lecture tour of Italy; and other papers.  Highlights include the unpublished manuscript for Popular Chinese Plays, as well as correspondence concerning its projected publication by Henry Vetch.  Also included is an annotated typescript and related correspondence for Acton's novel, Peonies and Ponies (1941).  Material sheds light on the development of literary translation between Chinese and English and the influence of China on British intellectual history and literary life during the period preceding the Second World War.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="555" ind1="0" ind2=" ">
+         <marc:subfield code="a">Finding aid available.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="561" ind1=" " ind2=" ">
+         <marc:subfield code="a">Purchased from Simon Finch on the Edwin J.  Beinecke Book Fund, 2009.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="546" ind1=" " ind2=" ">
+         <marc:subfield code="a">In English and Chinese.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="524" ind1=" " ind2=" ">
+         <marc:subfield code="a">Harold Acton Papers.  General Collection, Beinecke Rare Book and Manuscript Library, Yale University.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="588" ind1=" " ind2=" ">
+         <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Acton, Harold,</marc:subfield>
+         <marc:subfield code="d">1904-1994.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Betjeman, John,</marc:subfield>
+         <marc:subfield code="d">1906-1984.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Chen, Shixiang.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Colquhoun, Archibald.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">De Zoete, Beryl,</marc:subfield>
+         <marc:subfield code="d">1884-1962.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Dover, Cedric.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Harrod, Roy,</marc:subfield>
+         <marc:subfield code="d">1900-1978.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Hartnoll, Phyllis.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Moore, T. Sturge</marc:subfield>
+         <marc:subfield code="q">(Thomas Sturge),</marc:subfield>
+         <marc:subfield code="d">1870-1944.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Sitwell, Osbert,</marc:subfield>
+         <marc:subfield code="d">1892-1969.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Waley, Arthur.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Xiao, Qian,</marc:subfield>
+         <marc:subfield code="d">1910-</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Yuan, Jiahua,</marc:subfield>
+         <marc:subfield code="d">1904-</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Authors, English</marc:subfield>
+         <marc:subfield code="y">20th century</marc:subfield>
+         <marc:subfield code="v">Archives.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">British literature</marc:subfield>
+         <marc:subfield code="y">20th century.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Chinese drama.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Chinese literature.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Chinese literature</marc:subfield>
+         <marc:subfield code="x">Translation into English.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Chinese poetry.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Translating and interpreting.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="0">
+         <marc:subfield code="a">England</marc:subfield>
+         <marc:subfield code="x">Foreign relations</marc:subfield>
+         <marc:subfield code="z">Italy.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="0">
+         <marc:subfield code="a">Italy</marc:subfield>
+         <marc:subfield code="x">Foreign relations</marc:subfield>
+         <marc:subfield code="z">England.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="852" ind1=" " ind2=" ">
+         <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="2">
+         <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.acton</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>05198cpc a2200517 a 4500</marc:leader>
+      <marc:controlfield tag="001">8507429</marc:controlfield>
+      <marc:controlfield tag="005">20110505164601.0</marc:controlfield>
+      <marc:controlfield tag="008">090105i19021945ctu                 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocn702249600</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="9">(YUL)ead.beinecke.adams</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">8507429</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">CtY-BR</marc:subfield>
+         <marc:subfield code="c">CtY-BR</marc:subfield>
+         <marc:subfield code="e">dacs</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="079" ind1=" " ind2=" ">
+         <marc:subfield code="a">ocn702193388</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Adams, R. A.</marc:subfield>
+         <marc:subfield code="q">(Revels Alcorn),</marc:subfield>
+         <marc:subfield code="d">b. 1869.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">R. A. Adams papers,</marc:subfield>
+         <marc:subfield code="f">1902-1945.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">6.35</marc:subfield>
+         <marc:subfield code="f">linear feet (14 boxes)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="351" ind1=" " ind2=" ">
+         <marc:subfield code="a">Organized into four subseries: I. Writings, 1902-1944. II. Writings by Others, 1930s. III. Music, undated. IV. Other Papers, 1911-1945.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="545" ind1=" " ind2=" ">
+         <marc:subfield code="a">R. A. Adams was born on 28 February 1869 in Vicksburg, Mississippi. He attended Payne Theological Seminary in Wilberforce, Ohio, and served as a Methodist minister in Clarksdale, Brookhaven, Jackson, and Natchez, Mississippi. According to his own biographical statement, Adams entered the ministry, presumably of the African Methodist Episcopal Church, on 23 August 1891 and worked in the pastorate until 1910, after which time he traveled around the South and parts of the Midwest and Mid-Atlantic regions as an evangelist and lecturer. He wrote and lectured on the topics of religion, theology, philosophy, race, eugenics, prophylactics, and social behavior. As president and presumably founder of The Progress Publishing Co. in Wichita, Kansas, he collaborated on and published pamphlets on the same topics, including his own Highlights of Negro History, Psychoanalysis and Racial Affinity, and Syphilis, The Black Plague.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="545" ind1=" " ind2=" ">
+         <marc:subfield code="a">In addition to sermons and lectures, Adams also wrote novels, critical essays, poetry, and music, most, if not all, of which were never published. His novels include Babylon, described by Adams as "Religious - Sociological - Interracial - Stresses Gospel as Panacea for all Social Ills", Deacon Simpson, "Story of Negro Church Life - Contrasting Old, Unlettered Ministers with Modern Products - Evolution in Negro Church Life", and The Great Cathedral, "Exposure of Graft, Corruption, Autocracy, and Ecclesiastical Misfeasance -  Predicting Revolution and Reformation of the Negro Church". His critical essays likewise explore the African American Church in the late 19th and early 20th centuries, in addition to other topics, and include works such as "The Negro and His Church"  and "The Negro Church - What Ails It?".</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1=" " ind2=" ">
+         <marc:subfield code="a">The collection consists of writings, sheet music, scrapbooks, photographs, and other papers, stemming from R. A.  Adams's activities as an evangelistic minister of the African Methodist Episcopal Church and as a writer, lecturer, and publisher of pamphlets on topics relating to race, religion, contraception, interpersonal relations, and socioeconomics.  The collection documents aspects of African American religion and culture, especially in the South, in the early 20th century, and in particular the evangelistic, educational, and literary activities of one African American Methodist minister.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1=" " ind2=" ">
+         <marc:subfield code="a">Writings by Adams comprise the bulk of the collection and include typescripts, some of which are corrected, and manuscripts of addresses, sermons, and critical essays, as well as typescripts and manuscripts of creative works such as poetry, novels, and a play. Also included are typescripts of writings by others, on which Adams collaborated or which he seems to have published as president of The Progress Publishing Co.; as well as typescripts of musical programs and sheet music for songs by Adams; scrapbooks containing correspondence, letters of introduction, resolutions, testimonials, and clippings, documenting Adams's evangelistic activities from 1910 to 1921; photographs of Adams and his family; and printed material and other loose papers.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="555" ind1="0" ind2=" ">
+         <marc:subfield code="a">Finding aid available.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="561" ind1=" " ind2=" ">
+         <marc:subfield code="a">Purchased from William Reese Co. on the Edwin J. Beinecke Book Fund and Serendipity Books on the James Weldon Johnson Memorial Collection of Negro Arts &amp; Letters Fund, 2008.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="546" ind1=" " ind2=" ">
+         <marc:subfield code="a">In English.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="524" ind1=" " ind2=" ">
+         <marc:subfield code="a">R. A. Adams Papers. James Weldon Johnson Collection in the Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="588" ind1=" " ind2=" ">
+         <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Adams, R. A.</marc:subfield>
+         <marc:subfield code="q">(Revels Alcorn),</marc:subfield>
+         <marc:subfield code="d">b. 1869.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Bearer, A. G.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="610" ind1="2" ind2="0">
+         <marc:subfield code="a">African Methodist Episcopal Church.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="610" ind1="2" ind2="0">
+         <marc:subfield code="a">Progress Publishing Co.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">African American authors</marc:subfield>
+         <marc:subfield code="y">20th century.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">African American churches.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">African American clergy.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">African American Methodists.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">African American preaching.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">African Americans</marc:subfield>
+         <marc:subfield code="x">Religion</marc:subfield>
+         <marc:subfield code="y">20th century.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">American literature</marc:subfield>
+         <marc:subfield code="x">African American authors.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Contraception.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Economics</marc:subfield>
+         <marc:subfield code="x">Sociological aspects.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Eugenics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Evangelistic work.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Interpersonal relations.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Race.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Religion.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Theology.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="852" ind1=" " ind2=" ">
+         <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="2">
+         <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.adams</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+</marc:collection>

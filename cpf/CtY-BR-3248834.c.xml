@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T12:17:54.635-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -173,7 +173,7 @@
          </place>
          <biogHist>
             <p>Amy Bredish Groesbeck (1894-1961) was a poet and playwright.</p>
-            <citation>From the description of Amy Groesbeck papers, 1904-1961 (inclusive) (Unknown). WorldCat record id: 3248834</citation>
+            <citation>From the description of Amy Groesbeck papers, 1904-1961 (inclusive) (Yale University, Beinecke Rare Book and Manuscript Library). WorldCat record id: 3248834</citation>
          </biogHist>
       </description>
       <relations>
@@ -200,7 +200,7 @@
                   </titleInfo>
                   <abstract>The papers contain poetry, drama, personal papers, and photographs documenting the life of Amy Groesbeck. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

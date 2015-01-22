@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T13:18:40.866-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -295,7 +295,7 @@
                   </titleInfo>
                   <abstract>Agenda Records consist of materials from the production files of Agenda magazine from volume 7, number 3 (1969) through volume 37, number 4 (2000), with related financial records, and additional materials from William Cookson's files. Writings include works submitted for publication in Agenda or the Agenda Editions and consist of articles, poems, and reviews in holograph, typescript, galley and proof form, many bearing annotations by editor or author. The production files contain advertising copy, notes, computer disks, and galleys and proofs of issues. The correspondence is between William Cookson and contributors, his associate editor Peter Dale, and other business associates. Additional papers include business papers, photographs, and a small number of printed works. Also included are papers concerning William Cookson's writing and editing activities outside of his work at Agenda. </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

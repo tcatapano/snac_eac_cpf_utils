@@ -14,7 +14,7 @@
       <maintenanceHistory>
          <maintenanceEvent>
             <eventType>created</eventType>
-            <eventDateTime standardDateTime="2015-01-07T12:53:30.806-05:00"/>
+            <eventDateTime standardDateTime="2015-01-21T13:18:40.866-05:00"/>
             <agentType>machine</agentType>
             <agent>XSLT oclc_marc2cpf.xsl Saxonica 2.0 http://www.saxonica.com/</agent>
             <eventDescription>Derived from MARC</eventDescription>
@@ -172,7 +172,7 @@
                   </titleInfo>
                   <abstract>Includes letters from Baring to Eugénie Strong, 1900-1939, and a carbon of one letter from Strong to Baring, 1925; corrected typescript of "The Coat Without Seam"; corrected proofs of "The Song of the Nameless", with manuscript poem; corrected typescript of "Passages from Three Notebooks"; manuscript volume labeled: "French Parodies and Russian Exercises"; manuscript volume of various poems labeled "Sonnets and Lyrics"; and corrected typescript and manuscript of "A Luncheon Party". </abstract>
                   <name>
-                     <namePart>Unknown</namePart>
+                     <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
                      <role>
                         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
                      </role>

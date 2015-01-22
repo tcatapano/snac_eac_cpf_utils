@@ -717,8 +717,41 @@
                 This sends over the current eac:container wrapper element, which has all kinds of info about
                 the current entity. Currently it is used for occupation and function.
             -->
-            <xsl:copy-of select="."/>
+            <xsl:copy-of select="."/>            
         </xsl:variable>
+<!-- TC: adding output of params for result EAC for analysis purposes -->
+        <xsl:result-document href="{concat($chunk_dir, '/', $record_id, '.', eac:e_name/@fn_suffix, '_preEAC' ,'.xml')}" format="xml">
+            <xsl:copy-of select="$param_data"/>
+            <xsl:copy-of select="eac:existDates"/>
+             <xsl:element name="entity_type">
+                 <xsl:value-of select="eac:e_name/@cpf_entity_type"/>
+             </xsl:element>
+            <xsl:element name="leader06"><xsl:value-of select="$leader06"/></xsl:element>
+            <xsl:element name="leader07"><xsl:value-of select="$leader07"/></xsl:element>
+            <xsl:element name="leader08"><xsl:value-of select="$leader08"/></xsl:element>
+            <xsl:element name="mods"><xsl:value-of select="$mods"/></xsl:element>
+            <xsl:element name="rel_entry"><xsl:value-of select="$rel_entry"/></xsl:element>
+            <xsl:element name="arc_role"><xsl:value-of select="$arc_role"/></xsl:element>
+            <xsl:element name="controlfield_001"><xsl:value-of select="$controlfield_001"/></xsl:element>
+            <xsl:element name="is_c_flag"><xsl:value-of select="$is_c_flag"/></xsl:element>
+            <xsl:element name="is_r_flag"><xsl:value-of select="$is_r_flag"/></xsl:element>
+            <xsl:element name="fn_suffix"><xsl:value-of select="eac:e_name/@fn_suffix" /></xsl:element>
+            <xsl:element name="cpf_relation"><xsl:value-of select="$cpf_relation" /></xsl:element>
+            <xsl:element name="record_id"><xsl:value-of select="$record_id" /></xsl:element>
+            <xsl:element name="date"><xsl:value-of select="$date" /></xsl:element>
+            <xsl:element name="xslt_vendor"><xsl:value-of select="$xslt_vendor"/></xsl:element>
+            <xsl:element name="xslt_version"><xsl:value-of select="$xslt_version"/></xsl:element>
+            <xsl:element name="xslt_vendor_url"><xsl:value-of select="$xslt_vendor_url"/></xsl:element>
+            <xsl:element name="tag_545"><xsl:value-of select="$tag_545"/></xsl:element>
+            <xsl:element name="tag_245"><xsl:value-of select="normalize-space($tag_245)"/></xsl:element>
+            <xsl:element name="xslt_script"><xsl:value-of select="$xslt_script"/></xsl:element>
+            <xsl:element name="original"><xsl:value-of select="$original"/></xsl:element>
+            <xsl:element name="lang_decl"><xsl:value-of select="$lang_decl"/></xsl:element>
+            <xsl:element name="topical_subject"><xsl:value-of select="$topical_subject"/></xsl:element>
+            <xsl:element name="geographic_subject"><xsl:value-of select="$geographic_subject"/></xsl:element>
+            <xsl:element name="language"><xsl:value-of select="$language"/></xsl:element>
+            <xsl:element name="param_data"><xsl:value-of select="$param_data" /></xsl:element>
+        </xsl:result-document>
 
         <!--
             Note: the context is a <container> node set. <container><e_name>...</e_name><existDates>...</existDates></container>
