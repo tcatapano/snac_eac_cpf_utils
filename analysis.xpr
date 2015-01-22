@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="16.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized version="16.1" xml:space="preserve">
+                <map>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </map>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="analysis.xpr">
+        <folder name="sample_XML">
+            <file name="small_test.xml"/>
+            <file name="test.xml"/>
+        </folder>
+        <folder name="xslt">
+            <file name="av.xsl"/>
+            <file name="bl2cpf.xsl"/>
+            <file name="eac_cpf.xsl"/>
+            <file name="extract_040a.xsl"/>
+            <file name="lib.xsl"/>
+            <file name="oclc_marc2cpf.xsl"/>
+            <file name="qa_marc2cpf.xsl"/>
+        </folder>
+    </projectTree>
+</project>

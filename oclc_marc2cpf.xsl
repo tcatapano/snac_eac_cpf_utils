@@ -178,9 +178,9 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
-
+<!--
         <xsl:variable name="name_entry">
-            <!-- 
+             
                  Interestingly, I don't think this is used. It may be a historical artifact. All the entities
                  are in the $all_xx variable as a node list where each node has all the entity info necessary
                  to fill in the CPF template.
@@ -191,7 +191,7 @@
                  
                  Use an intermediate temporary variable so we can normalize it. I can't see any other obvious way to
                  normalize the results of apply-templates. Normalizing now is better for any uses of the variable later.
-            -->
+            
             <xsl:variable name="ne_temp">
                 <xsl:apply-templates mode="tpt_name_entry" select="marc:datafield[@tag = $xx_tag]">
                     <xsl:with-param name="xx_tag" select="$xx_tag"/>
@@ -199,10 +199,10 @@
                     <xsl:with-param name="record_id" select="$record_id"/>
                 </xsl:apply-templates>
             </xsl:variable>
-            <!-- normalize space and remove trailing puncutation. -->
+             normalize space and remove trailing puncutation. 
             <xsl:value-of select="lib:norm-punct($ne_temp)"/>
         </xsl:variable>
-
+-->
         <xsl:variable name="entity_type">
             <!--
                 This template invokes tpt_entity_type template below. Use a specific node match and we won't need
@@ -515,7 +515,7 @@
             <xsl:with-param name="tc_data" select="$tc_data"/>
             <xsl:with-param name="rel_entry" select="$rel_entry"/>
             <xsl:with-param name="is_1xx" select="$is_1xx"/>
-            <xsl:with-param name="name_entry" select="$name_entry"/>
+        <!--    <xsl:with-param name="name_entry" select="$name_entry"/> -->
             <xsl:with-param name="mods" select="$mods"/>
             <xsl:with-param name="leader06" select="$leader06"/>
             <xsl:with-param name="leader07" select="$leader07"/>
