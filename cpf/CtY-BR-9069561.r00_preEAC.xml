@@ -1,294 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<eac_cpf_input xmlns="urn:isbn:1-931666-33-4">
-   <inc_orig>true</inc_orig>
-   <agency_info>
-      <agencyCode>CtY-BR</agencyCode>
-      <agencyName>Yale University, Beinecke Rare Book and Manuscript Library</agencyName>
-   </agency_info>
-   <snac_info>
-      <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
-   </snac_info>
-   <citation>From the description of Collection of advertisements that depict American history. 1887-1988, bulk 1887-1940. (Yale University, Beinecke Rare Book and Manuscript Library). WorldCat record id: 9069561</citation>
-   <ev_desc>Derived from MARC</ev_desc>
-   <rules>WorldCat</rules>
-   <xlink_href>http://www.worldcat.org/oclc</xlink_href>
-   <xlink_role>http://socialarchive.iath.virginia.edu/control/term#ArchivalResource</xlink_role>
-   <av_Leader06>http://socialarchive.iath.virginia.edu/control/term#Leader06</av_Leader06>
-   <av_Leader07>http://socialarchive.iath.virginia.edu/control/term#Leader07</av_Leader07>
-   <av_Leader08>http://socialarchive.iath.virginia.edu/control/term#Leader08</av_Leader08>
-   <container>
-      <e_name cpf_entity_type="person"
-              cp_count="0"
-              tag="600"
-              record_id="CtY-BR-9069561"
-              entity_type="Person"
-              entity_type_fc=""
-              fn_suffix="r00"
-              expanded_suffix="P"
-              is_creator="false">Boone, Daniel, 1734-1820</e_name>
-      <occ/>
-      <func/>
-      <existDates>
-         <dateRange>
-            <fromDate standardDate="1734"
-                      localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1734</fromDate>
-            <toDate standardDate="1820"
-                    localType="http://socialarchive.iath.virginia.edu/control/term#Death">1820</toDate>
-         </dateRange>
-      </existDates>
-      <subordinateAgency/>
-      <earlierLaterEntries/>
-   </container>
-   <existDates>
-      <dateRange>
-         <fromDate standardDate="1734"
-                   localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1734</fromDate>
-         <toDate standardDate="1820"
-                 localType="http://socialarchive.iath.virginia.edu/control/term#Death">1820</toDate>
-      </dateRange>
-   </existDates>
-   <entity_type>person</entity_type>
-   <leader06>k</leader06>
-   <leader07>c</leader07>
-   <leader08> </leader08>
-   <mods>
-      <objectXMLWrap>
-         <mods xmlns="http://www.loc.gov/mods/v3">
-            <recordInfo>
-               <recordOrigin>WorldCat:9069561</recordOrigin>
-               <recordContentSource>ISIL:CtY-BR</recordContentSource>
-            </recordInfo>
-            <titleInfo>
-               <title>Collection of advertisements that depict American history. 1887-1988, bulk 1887-1940.</title>
-            </titleInfo>
-            <abstract>This collection consists of collecting cards, advertising cards, sticker books, sheet music, and printed ephemera that document popular culture images of the United States and North America as viewed chiefly by countries throughout Europe, including France, Great Britain, Belgium, Germany, and Italy. The collection provides depictions of American subjects and themes from primarily European viewpoints used by companies to advertise their products or as premiums accompanying products. Subjects particularly well represented include Indians of North America and the American West, as well as natural landscapes and historical events, such as national parks and the American Civil War. Prominent individuals represented in the collection include United States presidents, particularly George Washington and Abraham Lincoln, and historical figures including Daniel Boone, Sitting Bull, Kit Carson, and Wyatt Earp. </abstract>
-            <name>
-               <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
-               <role>
-                  <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
-               </role>
-            </name>
-         </mods>
-      </objectXMLWrap>
-   </mods>
-   <rel_entry>Collection of advertisements that depict American history.</rel_entry>
-   <arc_role>http://socialarchive.iath.virginia.edu/control/term#referencedIn</arc_role>
-   <controlfield_001>9069561</controlfield_001>
-   <is_c_flag>false</is_c_flag>
-   <is_r_flag>true</is_r_flag>
-   <fn_suffix fn_suffix="r00"/>
-   <cpf_relation/>
-   <record_id>CtY-BR-9069561</record_id>
-   <date>2015-01-22T16:32:34.54-05:00</date>
-   <xslt_vendor>Saxonica</xslt_vendor>
-   <xslt_version>2.0</xslt_version>
-   <xslt_vendor_url>http://www.saxonica.com/</xslt_vendor_url>
-   <tag_545/>
-   <tag_245>Collection of advertisements that depict American history.</tag_245>
-   <xslt_script>oclc_marc2cpf.xsl</xslt_script>
-   <original>
-      <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                   xmlns:marc="http://www.loc.gov/MARC21/slim">
-         <marc:leader>03455ckc a2200541 a 4500</marc:leader>
-         <marc:controlfield tag="001">9069561</marc:controlfield>
-         <marc:controlfield tag="005">20120305133437.0</marc:controlfield>
-         <marc:controlfield tag="007">kf co</marc:controlfield>
-         <marc:controlfield tag="008">091102i18871988ctunnn            kneng d</marc:controlfield>
-         <marc:datafield tag="035" ind1=" " ind2=" ">
-            <marc:subfield code="a">(OCoLC)ocn702068850</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="035" ind1=" " ind2=" ">
-            <marc:subfield code="9">(YUL)ead.beinecke.advertisements</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="035" ind1=" " ind2=" ">
-            <marc:subfield code="a">9069561</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="040" ind1=" " ind2=" ">
-            <marc:subfield code="a">CtY-BR</marc:subfield>
-            <marc:subfield code="c">CtY-BR</marc:subfield>
-            <marc:subfield code="e">gihc</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="041" ind1="0" ind2=" ">
-            <marc:subfield code="a">eng</marc:subfield>
-            <marc:subfield code="a">ita</marc:subfield>
-            <marc:subfield code="a">ger</marc:subfield>
-            <marc:subfield code="a">fre</marc:subfield>
-            <marc:subfield code="a">dut</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="043" ind1=" " ind2=" ">
-            <marc:subfield code="a">n-us---</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="079" ind1=" " ind2=" ">
-            <marc:subfield code="a">ocn701864673</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="245" ind1="0" ind2="0">
-            <marc:subfield code="a">Collection of advertisements that depict American history.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="260" ind1=" " ind2=" ">
-            <marc:subfield code="c">1887-1988, bulk 1887-1940.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="300" ind1=" " ind2=" ">
-            <marc:subfield code="a">8.28</marc:subfield>
-            <marc:subfield code="f">linear feet (14 boxes)</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="351" ind1=" " ind2=" ">
-            <marc:subfield code="a">Organized into two series:  I. 2009 Acquisition, circa 1870-1988. II. 2010 Acquisition, 1870-1994.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="520" ind1=" " ind2=" ">
-            <marc:subfield code="a">This collection consists of collecting cards, advertising cards, sticker books, sheet music, and printed ephemera that document popular culture images of the United States and North America as viewed chiefly by countries throughout Europe, including France, Great Britain, Belgium, Germany, and Italy. The collection provides depictions of American subjects and themes from primarily European viewpoints used by companies to advertise their products or as premiums accompanying products. Subjects particularly well represented include Indians of North America and the American West, as well as natural landscapes and historical events, such as national parks and the American Civil War. Prominent individuals represented in the collection include United States presidents, particularly George Washington and Abraham Lincoln, and historical figures including Daniel Boone, Sitting Bull, Kit Carson, and Wyatt Earp.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="555" ind1="0" ind2=" ">
-            <marc:subfield code="a">Finding aid available.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="561" ind1=" " ind2=" ">
-            <marc:subfield code="a">Purchased from Kevin Jackson on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2009-2010.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="546" ind1=" " ind2=" ">
-            <marc:subfield code="a">In English, Italian, German, French, and Dutch.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="500" ind1=" " ind2=" ">
-            <marc:subfield code="a">Title devised by cataloger.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="500" ind1=" " ind2=" ">
-            <marc:subfield code="a">This is an open collection to which additions are expected. Consequently, it is organized by accession, with the contents of each accession arranged in parallel fashion.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="524" ind1=" " ind2=" ">
-            <marc:subfield code="a">Collection of Advertisements that Depict American History. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="588" ind1=" " ind2=" ">
-            <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="600" ind1="1" ind2="0">
-            <marc:subfield code="a">Boone, Daniel,</marc:subfield>
-            <marc:subfield code="d">1734-1820</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="600" ind1="1" ind2="0">
-            <marc:subfield code="a">Carson, Kit,</marc:subfield>
-            <marc:subfield code="d">1809-1868</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="600" ind1="1" ind2="0">
-            <marc:subfield code="a">Earp, Wyatt,</marc:subfield>
-            <marc:subfield code="d">1848-1929</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="600" ind1="1" ind2="0">
-            <marc:subfield code="a">Lincoln, Abraham,</marc:subfield>
-            <marc:subfield code="d">1809-1865</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="600" ind1="0" ind2="0">
-            <marc:subfield code="a">Sitting Bull,</marc:subfield>
-            <marc:subfield code="d">1831-1890</marc:subfield>
-            <marc:subfield code="v">Portraits.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="600" ind1="1" ind2="0">
-            <marc:subfield code="a">Washington, George,</marc:subfield>
-            <marc:subfield code="d">1732-1799</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="650" ind1=" " ind2="0">
-            <marc:subfield code="a">Advertising</marc:subfield>
-            <marc:subfield code="z">Europe.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="650" ind1=" " ind2="0">
-            <marc:subfield code="a">Frontier and pioneer life</marc:subfield>
-            <marc:subfield code="z">West (U.S.)</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="650" ind1=" " ind2="0">
-            <marc:subfield code="a">Indians of North America</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="650" ind1=" " ind2="0">
-            <marc:subfield code="a">Popular culture</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="650" ind1=" " ind2="0">
-            <marc:subfield code="a">Presidents</marc:subfield>
-            <marc:subfield code="z">United States</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="651" ind1=" " ind2="0">
-            <marc:subfield code="a">United States</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="651" ind1=" " ind2="0">
-            <marc:subfield code="a">United States</marc:subfield>
-            <marc:subfield code="x">History</marc:subfield>
-            <marc:subfield code="y">Civil War, 1861-1865</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="651" ind1=" " ind2="0">
-            <marc:subfield code="a">West (U.S.)</marc:subfield>
-            <marc:subfield code="v">Pictorial works.</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="655" ind1=" " ind2="7">
-            <marc:subfield code="a">Advertising cards.</marc:subfield>
-            <marc:subfield code="2">aat</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="655" ind1=" " ind2="7">
-            <marc:subfield code="a">Chromolithographs.</marc:subfield>
-            <marc:subfield code="2">aat</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="655" ind1=" " ind2="7">
-            <marc:subfield code="a">Printed ephemera.</marc:subfield>
-            <marc:subfield code="2">aat</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="655" ind1=" " ind2="7">
-            <marc:subfield code="a">Sheet music.</marc:subfield>
-            <marc:subfield code="2">aat</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="655" ind1=" " ind2="7">
-            <marc:subfield code="a">Sticker books.</marc:subfield>
-            <marc:subfield code="2">aat</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="852" ind1=" " ind2=" ">
-            <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
-         </marc:datafield>
-         <marc:datafield tag="856" ind1="4" ind2="2">
-            <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
-            <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.advertisements</marc:subfield>
-         </marc:datafield>
-      </marc:record>
-   </original>
-   <lang_decl>
-      <languageDeclaration>
-         <language languageCode="eng">English</language>
-         <script scriptCode="Zyyy">Unknown</script>
-      </languageDeclaration>
-   </lang_decl>
-   <topical_subject>
-      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
-         <term>Advertising</term>
-      </localDescription>
-      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
-         <term>Frontier and pioneer life--Pictorial works</term>
-      </localDescription>
-      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
-         <term>Indians of North America--Pictorial works</term>
-      </localDescription>
-      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
-         <term>Popular culture--Pictorial works</term>
-      </localDescription>
-      <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
-         <term>Presidents--Pictorial works</term>
-      </localDescription>
-   </topical_subject>
-   <geographic_subject>
-      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
-         <placeEntry>Europe</placeEntry>
-      </place>
-      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
-         <placeEntry>West (U.S.)</placeEntry>
-      </place>
-      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
-         <placeEntry>United States</placeEntry>
-      </place>
-   </geographic_subject>
-   <language/>
-   <param_data>
+<intermediate_nodesets xmlns="urn:isbn:1-931666-33-4">
+   <all_xx>
+      <container>
+         <e_name cpf_entity_type="person"
+                 cp_count="0"
+                 tag="600"
+                 record_id="CtY-BR-9069561"
+                 entity_type="Person"
+                 entity_type_fc=""
+                 fn_suffix="r00"
+                 expanded_suffix="P"
+                 is_creator="false">Boone, Daniel, 1734-1820</e_name>
+         <occ/>
+         <func/>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1734"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1734</fromDate>
+               <toDate standardDate="1820"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1820</toDate>
+            </dateRange>
+         </existDates>
+         <subordinateAgency/>
+         <earlierLaterEntries/>
+      </container>
+      <container>
+         <e_name cpf_entity_type="person"
+                 cp_count="0"
+                 tag="600"
+                 record_id="CtY-BR-9069561"
+                 entity_type="Person"
+                 entity_type_fc=""
+                 fn_suffix="r01"
+                 expanded_suffix="P"
+                 is_creator="false">Carson, Kit, 1809-1868</e_name>
+         <occ/>
+         <func/>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1809"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1809</fromDate>
+               <toDate standardDate="1868"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1868</toDate>
+            </dateRange>
+         </existDates>
+         <subordinateAgency/>
+         <earlierLaterEntries/>
+      </container>
+      <container>
+         <e_name cpf_entity_type="person"
+                 cp_count="0"
+                 tag="600"
+                 record_id="CtY-BR-9069561"
+                 entity_type="Person"
+                 entity_type_fc=""
+                 fn_suffix="r02"
+                 expanded_suffix="P"
+                 is_creator="false">Earp, Wyatt, 1848-1929</e_name>
+         <occ/>
+         <func/>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1848"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1848</fromDate>
+               <toDate standardDate="1929"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1929</toDate>
+            </dateRange>
+         </existDates>
+         <subordinateAgency/>
+         <earlierLaterEntries/>
+      </container>
+      <container>
+         <e_name cpf_entity_type="person"
+                 cp_count="0"
+                 tag="600"
+                 record_id="CtY-BR-9069561"
+                 entity_type="Person"
+                 entity_type_fc=""
+                 fn_suffix="r03"
+                 expanded_suffix="P"
+                 is_creator="false">Lincoln, Abraham, 1809-1865</e_name>
+         <occ/>
+         <func/>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1809"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1809</fromDate>
+               <toDate standardDate="1865"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1865</toDate>
+            </dateRange>
+         </existDates>
+         <subordinateAgency/>
+         <earlierLaterEntries/>
+      </container>
+      <container>
+         <e_name cpf_entity_type="person"
+                 cp_count="0"
+                 tag="600"
+                 record_id="CtY-BR-9069561"
+                 entity_type="Person"
+                 entity_type_fc=""
+                 fn_suffix="r04"
+                 expanded_suffix="P"
+                 is_creator="false">Sitting Bull, 1831-1890</e_name>
+         <occ/>
+         <func/>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1831"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1831</fromDate>
+               <toDate standardDate="1890"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1890</toDate>
+            </dateRange>
+         </existDates>
+         <subordinateAgency/>
+         <earlierLaterEntries/>
+      </container>
+      <container>
+         <e_name cpf_entity_type="person"
+                 cp_count="0"
+                 tag="600"
+                 record_id="CtY-BR-9069561"
+                 entity_type="Person"
+                 entity_type_fc=""
+                 fn_suffix="r05"
+                 expanded_suffix="P"
+                 is_creator="false">Washington, George, 1732-1799</e_name>
+         <occ/>
+         <func/>
+         <existDates>
+            <dateRange>
+               <fromDate standardDate="1732"
+                         localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1732</fromDate>
+               <toDate standardDate="1799"
+                       localType="http://socialarchive.iath.virginia.edu/control/term#Death">1799</toDate>
+            </dateRange>
+         </existDates>
+         <subordinateAgency/>
+         <earlierLaterEntries/>
+      </container>
+   </all_xx>
+   <eac_cpf_input>
       <inc_orig>true</inc_orig>
       <agency_info>
          <agencyCode>CtY-BR</agencyCode>
@@ -328,5 +180,295 @@
          <subordinateAgency/>
          <earlierLaterEntries/>
       </container>
-   </param_data>
-</eac_cpf_input>
+      <existDates>
+         <dateRange>
+            <fromDate standardDate="1734"
+                      localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1734</fromDate>
+            <toDate standardDate="1820"
+                    localType="http://socialarchive.iath.virginia.edu/control/term#Death">1820</toDate>
+         </dateRange>
+      </existDates>
+      <entity_type>person</entity_type>
+      <leader06>k</leader06>
+      <leader07>c</leader07>
+      <leader08> </leader08>
+      <mods>
+         <objectXMLWrap>
+            <mods xmlns="http://www.loc.gov/mods/v3">
+               <recordInfo>
+                  <recordOrigin>WorldCat:9069561</recordOrigin>
+                  <recordContentSource>ISIL:CtY-BR</recordContentSource>
+               </recordInfo>
+               <titleInfo>
+                  <title>Collection of advertisements that depict American history. 1887-1988, bulk 1887-1940.</title>
+               </titleInfo>
+               <abstract>This collection consists of collecting cards, advertising cards, sticker books, sheet music, and printed ephemera that document popular culture images of the United States and North America as viewed chiefly by countries throughout Europe, including France, Great Britain, Belgium, Germany, and Italy. The collection provides depictions of American subjects and themes from primarily European viewpoints used by companies to advertise their products or as premiums accompanying products. Subjects particularly well represented include Indians of North America and the American West, as well as natural landscapes and historical events, such as national parks and the American Civil War. Prominent individuals represented in the collection include United States presidents, particularly George Washington and Abraham Lincoln, and historical figures including Daniel Boone, Sitting Bull, Kit Carson, and Wyatt Earp. </abstract>
+               <name>
+                  <namePart>Yale University, Beinecke Rare Book and Manuscript Library</namePart>
+                  <role>
+                     <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/rps">Repository</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </objectXMLWrap>
+      </mods>
+      <rel_entry>Collection of advertisements that depict American history.</rel_entry>
+      <arc_role>http://socialarchive.iath.virginia.edu/control/term#referencedIn</arc_role>
+      <controlfield_001>9069561</controlfield_001>
+      <is_c_flag>false</is_c_flag>
+      <is_r_flag>true</is_r_flag>
+      <fn_suffix fn_suffix="r00"/>
+      <cpf_relation/>
+      <record_id>CtY-BR-9069561</record_id>
+      <date>2015-01-22T16:42:39.419-05:00</date>
+      <xslt_vendor>Saxonica</xslt_vendor>
+      <xslt_version>2.0</xslt_version>
+      <xslt_vendor_url>http://www.saxonica.com/</xslt_vendor_url>
+      <tag_545/>
+      <tag_245>Collection of advertisements that depict American history.</tag_245>
+      <xslt_script>oclc_marc2cpf.xsl</xslt_script>
+      <original>
+         <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xmlns:marc="http://www.loc.gov/MARC21/slim">
+            <marc:leader>03455ckc a2200541 a 4500</marc:leader>
+            <marc:controlfield tag="001">9069561</marc:controlfield>
+            <marc:controlfield tag="005">20120305133437.0</marc:controlfield>
+            <marc:controlfield tag="007">kf co</marc:controlfield>
+            <marc:controlfield tag="008">091102i18871988ctunnn            kneng d</marc:controlfield>
+            <marc:datafield tag="035" ind1=" " ind2=" ">
+               <marc:subfield code="a">(OCoLC)ocn702068850</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="035" ind1=" " ind2=" ">
+               <marc:subfield code="9">(YUL)ead.beinecke.advertisements</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="035" ind1=" " ind2=" ">
+               <marc:subfield code="a">9069561</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="040" ind1=" " ind2=" ">
+               <marc:subfield code="a">CtY-BR</marc:subfield>
+               <marc:subfield code="c">CtY-BR</marc:subfield>
+               <marc:subfield code="e">gihc</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="041" ind1="0" ind2=" ">
+               <marc:subfield code="a">eng</marc:subfield>
+               <marc:subfield code="a">ita</marc:subfield>
+               <marc:subfield code="a">ger</marc:subfield>
+               <marc:subfield code="a">fre</marc:subfield>
+               <marc:subfield code="a">dut</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="043" ind1=" " ind2=" ">
+               <marc:subfield code="a">n-us---</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="079" ind1=" " ind2=" ">
+               <marc:subfield code="a">ocn701864673</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="245" ind1="0" ind2="0">
+               <marc:subfield code="a">Collection of advertisements that depict American history.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="260" ind1=" " ind2=" ">
+               <marc:subfield code="c">1887-1988, bulk 1887-1940.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="300" ind1=" " ind2=" ">
+               <marc:subfield code="a">8.28</marc:subfield>
+               <marc:subfield code="f">linear feet (14 boxes)</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="351" ind1=" " ind2=" ">
+               <marc:subfield code="a">Organized into two series:  I. 2009 Acquisition, circa 1870-1988. II. 2010 Acquisition, 1870-1994.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="520" ind1=" " ind2=" ">
+               <marc:subfield code="a">This collection consists of collecting cards, advertising cards, sticker books, sheet music, and printed ephemera that document popular culture images of the United States and North America as viewed chiefly by countries throughout Europe, including France, Great Britain, Belgium, Germany, and Italy. The collection provides depictions of American subjects and themes from primarily European viewpoints used by companies to advertise their products or as premiums accompanying products. Subjects particularly well represented include Indians of North America and the American West, as well as natural landscapes and historical events, such as national parks and the American Civil War. Prominent individuals represented in the collection include United States presidents, particularly George Washington and Abraham Lincoln, and historical figures including Daniel Boone, Sitting Bull, Kit Carson, and Wyatt Earp.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="555" ind1="0" ind2=" ">
+               <marc:subfield code="a">Finding aid available.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="561" ind1=" " ind2=" ">
+               <marc:subfield code="a">Purchased from Kevin Jackson on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2009-2010.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="546" ind1=" " ind2=" ">
+               <marc:subfield code="a">In English, Italian, German, French, and Dutch.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="500" ind1=" " ind2=" ">
+               <marc:subfield code="a">Title devised by cataloger.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="500" ind1=" " ind2=" ">
+               <marc:subfield code="a">This is an open collection to which additions are expected. Consequently, it is organized by accession, with the contents of each accession arranged in parallel fashion.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="524" ind1=" " ind2=" ">
+               <marc:subfield code="a">Collection of Advertisements that Depict American History. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="588" ind1=" " ind2=" ">
+               <marc:subfield code="a">Copyright 2013 Yale University Library. Licensed under the Educational Community License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.osedu.org/licenses/ECL-2.0</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="600" ind1="1" ind2="0">
+               <marc:subfield code="a">Boone, Daniel,</marc:subfield>
+               <marc:subfield code="d">1734-1820</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="600" ind1="1" ind2="0">
+               <marc:subfield code="a">Carson, Kit,</marc:subfield>
+               <marc:subfield code="d">1809-1868</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="600" ind1="1" ind2="0">
+               <marc:subfield code="a">Earp, Wyatt,</marc:subfield>
+               <marc:subfield code="d">1848-1929</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="600" ind1="1" ind2="0">
+               <marc:subfield code="a">Lincoln, Abraham,</marc:subfield>
+               <marc:subfield code="d">1809-1865</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="600" ind1="0" ind2="0">
+               <marc:subfield code="a">Sitting Bull,</marc:subfield>
+               <marc:subfield code="d">1831-1890</marc:subfield>
+               <marc:subfield code="v">Portraits.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="600" ind1="1" ind2="0">
+               <marc:subfield code="a">Washington, George,</marc:subfield>
+               <marc:subfield code="d">1732-1799</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="650" ind1=" " ind2="0">
+               <marc:subfield code="a">Advertising</marc:subfield>
+               <marc:subfield code="z">Europe.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="650" ind1=" " ind2="0">
+               <marc:subfield code="a">Frontier and pioneer life</marc:subfield>
+               <marc:subfield code="z">West (U.S.)</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="650" ind1=" " ind2="0">
+               <marc:subfield code="a">Indians of North America</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="650" ind1=" " ind2="0">
+               <marc:subfield code="a">Popular culture</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="650" ind1=" " ind2="0">
+               <marc:subfield code="a">Presidents</marc:subfield>
+               <marc:subfield code="z">United States</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="651" ind1=" " ind2="0">
+               <marc:subfield code="a">United States</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="651" ind1=" " ind2="0">
+               <marc:subfield code="a">United States</marc:subfield>
+               <marc:subfield code="x">History</marc:subfield>
+               <marc:subfield code="y">Civil War, 1861-1865</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="651" ind1=" " ind2="0">
+               <marc:subfield code="a">West (U.S.)</marc:subfield>
+               <marc:subfield code="v">Pictorial works.</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="655" ind1=" " ind2="7">
+               <marc:subfield code="a">Advertising cards.</marc:subfield>
+               <marc:subfield code="2">aat</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="655" ind1=" " ind2="7">
+               <marc:subfield code="a">Chromolithographs.</marc:subfield>
+               <marc:subfield code="2">aat</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="655" ind1=" " ind2="7">
+               <marc:subfield code="a">Printed ephemera.</marc:subfield>
+               <marc:subfield code="2">aat</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="655" ind1=" " ind2="7">
+               <marc:subfield code="a">Sheet music.</marc:subfield>
+               <marc:subfield code="2">aat</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="655" ind1=" " ind2="7">
+               <marc:subfield code="a">Sticker books.</marc:subfield>
+               <marc:subfield code="2">aat</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="852" ind1=" " ind2=" ">
+               <marc:subfield code="a">Beinecke Rare Book and Manuscript Library, Yale University, New Haven, CT</marc:subfield>
+            </marc:datafield>
+            <marc:datafield tag="856" ind1="4" ind2="2">
+               <marc:subfield code="3">View a description and list of collection contents in the Yale Finding Aid Database.</marc:subfield>
+               <marc:subfield code="u">http://hdl.handle.net/10079/fa/beinecke.advertisements</marc:subfield>
+            </marc:datafield>
+         </marc:record>
+      </original>
+      <lang_decl>
+         <languageDeclaration>
+            <language languageCode="eng">English</language>
+            <script scriptCode="Zyyy">Unknown</script>
+         </languageDeclaration>
+      </lang_decl>
+      <topical_subject>
+         <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+            <term>Advertising</term>
+         </localDescription>
+         <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+            <term>Frontier and pioneer life--Pictorial works</term>
+         </localDescription>
+         <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+            <term>Indians of North America--Pictorial works</term>
+         </localDescription>
+         <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+            <term>Popular culture--Pictorial works</term>
+         </localDescription>
+         <localDescription localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedSubject">
+            <term>Presidents--Pictorial works</term>
+         </localDescription>
+      </topical_subject>
+      <geographic_subject>
+         <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+            <placeEntry>Europe</placeEntry>
+         </place>
+         <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+            <placeEntry>West (U.S.)</placeEntry>
+         </place>
+         <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+            <placeEntry>United States</placeEntry>
+         </place>
+      </geographic_subject>
+      <language/>
+      <param_data>
+         <inc_orig>true</inc_orig>
+         <agency_info>
+            <agencyCode>CtY-BR</agencyCode>
+            <agencyName>Yale University, Beinecke Rare Book and Manuscript Library</agencyName>
+         </agency_info>
+         <snac_info>
+            <agencyName>SNAC: Social Networks and Archival Context Project</agencyName>
+         </snac_info>
+         <citation>From the description of Collection of advertisements that depict American history. 1887-1988, bulk 1887-1940. (Yale University, Beinecke Rare Book and Manuscript Library). WorldCat record id: 9069561</citation>
+         <ev_desc>Derived from MARC</ev_desc>
+         <rules>WorldCat</rules>
+         <xlink_href>http://www.worldcat.org/oclc</xlink_href>
+         <xlink_role>http://socialarchive.iath.virginia.edu/control/term#ArchivalResource</xlink_role>
+         <av_Leader06>http://socialarchive.iath.virginia.edu/control/term#Leader06</av_Leader06>
+         <av_Leader07>http://socialarchive.iath.virginia.edu/control/term#Leader07</av_Leader07>
+         <av_Leader08>http://socialarchive.iath.virginia.edu/control/term#Leader08</av_Leader08>
+         <container>
+            <e_name cpf_entity_type="person"
+                    cp_count="0"
+                    tag="600"
+                    record_id="CtY-BR-9069561"
+                    entity_type="Person"
+                    entity_type_fc=""
+                    fn_suffix="r00"
+                    expanded_suffix="P"
+                    is_creator="false">Boone, Daniel, 1734-1820</e_name>
+            <occ/>
+            <func/>
+            <existDates>
+               <dateRange>
+                  <fromDate standardDate="1734"
+                            localType="http://socialarchive.iath.virginia.edu/control/term#Birth">1734</fromDate>
+                  <toDate standardDate="1820"
+                          localType="http://socialarchive.iath.virginia.edu/control/term#Death">1820</toDate>
+               </dateRange>
+            </existDates>
+            <subordinateAgency/>
+            <earlierLaterEntries/>
+         </container>
+      </param_data>
+   </eac_cpf_input>
+</intermediate_nodesets>

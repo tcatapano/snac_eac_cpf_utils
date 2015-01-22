@@ -119,7 +119,7 @@
          position() works sort-of but some (many) numbers are skipped due since we filter out multi-1xx records.
     -->
     
-    <xsl:template name="tpt_match_record">
+        <xsl:template name="tpt_match_record">
         <xsl:param name="xx_tag"/>
 
         <xsl:variable
@@ -721,7 +721,11 @@
         </xsl:variable>
 <!-- TC: adding output of params for result EAC for analysis purposes -->
         <xsl:result-document href="{concat($chunk_dir, '/', $record_id, '.', eac:e_name/@fn_suffix, '_preEAC' ,'.xml')}" format="xml">
-           <eac_cpf_input>
+            <intermediate_nodesets>               
+            <all_xx>
+                <xsl:copy-of select="$all_xx"/>
+            </all_xx>
+            <eac_cpf_input>
                <xsl:copy-of select="$param_data"/>
             <xsl:copy-of select="eac:existDates"/>
              <xsl:element name="entity_type">
@@ -753,6 +757,7 @@
             <xsl:element name="language"><xsl:copy-of select="$language"/></xsl:element>
             <xsl:element name="param_data"><xsl:copy-of select="$param_data" /></xsl:element>
            </eac_cpf_input>
+            </intermediate_nodesets>
         </xsl:result-document>
 
         <!--
