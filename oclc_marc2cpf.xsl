@@ -721,7 +721,8 @@
         </xsl:variable>
 <!-- TC: adding output of params for result EAC for analysis purposes -->
         <xsl:result-document href="{concat($chunk_dir, '/', $record_id, '.', eac:e_name/@fn_suffix, '_preEAC' ,'.xml')}" format="xml">
-            <xsl:copy-of select="$param_data"/>
+           <eac_cpf_input>
+               <xsl:copy-of select="$param_data"/>
             <xsl:copy-of select="eac:existDates"/>
              <xsl:element name="entity_type">
                  <xsl:value-of select="eac:e_name/@cpf_entity_type"/>
@@ -751,6 +752,7 @@
             <xsl:element name="geographic_subject"><xsl:copy-of select="$geographic_subject"/></xsl:element>
             <xsl:element name="language"><xsl:copy-of select="$language"/></xsl:element>
             <xsl:element name="param_data"><xsl:copy-of select="$param_data" /></xsl:element>
+           </eac_cpf_input>
         </xsl:result-document>
 
         <!--
